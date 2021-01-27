@@ -1,0 +1,67 @@
+html,
+body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #20262e;
+  color: #fff;
+  overflow: hidden;
+}
+
+.twitter {
+  text-decoration: none;
+  color: #1da1f2;
+}
+
+.container {
+  padding: 24px;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+}
+
+button {
+  font-size: 12px;
+}
+
+input {
+  color: #fff;
+}
+
+p {
+  text-align: center;
+  font-size: 10px;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.highlighted {
+  background-color: #ffff00;
+  color: #000;
+}
+
+th {
+  position: relative;
+}
+th > .material-icons {
+  position: absolute;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  top: 50%;
+}
+
+.tableContainer {
+  position: relative;
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  border: 1px dashed red;
+  bottom: 12px;
+}

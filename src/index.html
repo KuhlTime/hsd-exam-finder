@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prüfungsplanner</title>
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic" />
+
+    <!-- CSS Reset -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" />
+
+    <!-- Milligram CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css" />
+
+    <!-- Material Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/3.0.1/iconfont/material-icons.min.css"
+    />
+
+    <!-- Load Styles -->
+    <link rel="stylesheet" href="./style/page.scss" />
+  </head>
+  <body>
+    <div class="container">
+      <h3 style="text-align: center">
+        <br /><br />
+        Prüfungstermin Finder v0.4.5
+      </h3>
+      <h6 style="text-align: center; font-size: 14px">
+        Stand: 26.01.2021 - WS 2020 / 21<br />
+        Wenn es aktuellere Daten gibt könnt ihr mich gerne anschreiben.<br />andre.kuhlmann@study...
+      </h6>
+
+      <p>
+        🚨
+        <br />
+        Ohne Gewähr!
+        <br />
+        <br />
+        <button
+          href="https://ei.hs-duesseldorf.de/studium/pruefungsangelegenheiten/pruefungen/Documents/Prüfungsplanung_WISe_2021_BA_EI_DUAL_PO_2016.pdf"
+          target="_blank"
+        >
+          Datei (PO 2016)
+        </button>
+        <button
+          href="https://ei.hs-duesseldorf.de/studium/pruefungsangelegenheiten/pruefungen/Documents/Prüfungsplanung_WISe_2021_BA_WM.pdf"
+        >
+          Datei Wahlmodule (Bachelor)
+        </button>
+      </p>
+      <p style="color: #bbb">
+        Achtung manche Römische Zahlen wurden mit einem großen i oder einem kleinen L geschrieben
+      </p>
+
+      <form>
+        <fieldset>
+          <input type="search" placeholder="Fach" />
+        </fieldset>
+      </form>
+
+      <h6 style="text-align: center">
+        André Kuhlmann
+        <br />
+        <a href="https://twitter.com/KuhlTime" target="_blank" class="twitter">@KuhlTime</a>
+      </h6>
+
+      <div class="tableContainer">
+        <table>
+          <thead>
+            <tr>
+              <th><i class="material-icons">favorite</i></th>
+              <th>Fach</th>
+              <th>Code</th>
+              <th>Studiengang</th>
+              <th>PO</th>
+              <th>Datum<i class="material-icons">arrow_drop_down</i></th>
+              <th>Beginn</th>
+              <th>Dauer</th>
+              <th>Prüfer</th>
+              <th>Raum</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <!--
+  CHANGELOG
+  v0.4.5
+    - Add contact text
+  
+  v0.4.3:
+    - Use the updated table format
+  
+  v0.4.2:
+    - Add a icon to display the order of the listed results
+    - Add favorite icon
+  
+  v0.4.1:
+    - Update the storage item to be more unique, so there can not longer be a missunderstanding for the program when loading a favorite
+    - Show the supervisor for each item in the table
+    - CSS Changes
+  
+  -->
+    </div>
+    <footer>Made with ❤️ and 👨‍💻</footer>
+    <script src="./js/index.js"></script>
+  </body>
+</html>

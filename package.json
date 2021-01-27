@@ -1,0 +1,22 @@
+{
+  "name": "hsd-pruefungsplanner",
+  "version": "0.4.5",
+  "main": "src/main.js",
+  "author": "André Kuhlmann <andre.kuhlmann@study.hs-duesseldorf.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel serve src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "@next",
+    "sass": "^1.32.5"
+  },
+  "dependencies": {
+    "datejs": "^1.0.0-rc3",
+    "jquery": "^3.5.1",
+    "material-icons": "^0.5.2",
+    "milligram": "^1.4.1",
+    "page.js": "^4.13.3",
+    "papaparse": "^5.3.0"
+  }
+}
