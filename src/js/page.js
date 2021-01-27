@@ -10,7 +10,10 @@ import dataUrl from 'url:../data.csv'
   var searchString = ''
   var storageVersion = 'v1'
 
-  if (
+  if (localStorage.getItem('storageVersion' === undefined)) {
+    console.log('Initalizing local storage')
+    localStorage.setItem('storageVersion', storageVersion)
+  } else if (
     localStorage.getItem('storageVersion') != storageVersion &&
     (localStorage.getItem('favorites') != undefined || localStorage.getItem('favorites') != [])
   ) {
