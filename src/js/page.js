@@ -105,9 +105,8 @@ import dataUrl from 'url:../data.csv'
     $row.append(`<td>${element[4]}</td>`) // PO
     $row.append($dateElement) // Datum
     $row.append(`<td>${element[8]}</td>`) // Beginn
-    $row.append(`<td>${element[9]}</td>`) // Dauer
+    $row.append(`<td>${element[10]}</td>`) // Dauer
     $row.append(`<td>${element[11]}<br>${element[13]}</td>`) // Prüfer
-    $row.append(`<td>${element[10]}</td>`) // Raum
 
     $('tbody').append($row)
   }
