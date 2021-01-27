@@ -10,6 +10,7 @@ import dataUrl from 'url:../data.csv'
   var searchString = ''
   var storageVersion = 'v1'
 
+  /*
   if (localStorage.getItem('storageVersion' === undefined)) {
     console.log('Initalizing local storage')
     localStorage.setItem('storageVersion', storageVersion)
@@ -23,6 +24,8 @@ import dataUrl from 'url:../data.csv'
     )
     localStorage.setItem('storageVersion', storageVersion)
   }
+  */
+  localStorage.setItem('storageVersion', storageVersion)
   var favorites = JSON.parse(localStorage.getItem('favorites')) || []
 
   function addRow(element) {
