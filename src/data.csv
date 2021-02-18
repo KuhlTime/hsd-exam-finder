@@ -1,104 +1,4 @@
 Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Raum,Prüfer,Prüfungsform,Zweitprüfer,Bemerkung
-"13011","Grundlagen der Informatik I","Bachelor EI","1","2016","4","23.02.21","Di","11:30","13:30","1:30","Gronau","KL","Pogatzki",""
-"12011","Mathematik I","Bachelor EI","1","2016","4","25.02.21","Do","08:30","10:30","1:30","Meier H.-G.","KL","Kerkhoff",""
-"14011","Naturwissenschaftliche Grundlagen I","Bachelor EI","1","2016","3","18.02.21","Do","09:00","11:30","2:00","Prochotta","KL","Braun, A.",""
-"11011","Grundlagen der Elektrotechnik I","Bachelor EI","1","2016","3","15.02.21","Mo","09:00","11:30","2:00","Wrede","KL","Gottkehaskamp",""
-"15011","Bauelemente","Bachelor EI","2","2016","5","03.03.21","Mi","12:00","14:00","1:30","Feige","KL","Kellner",""
-"15011","Bauelemente","Bachelor EI","2","2016","5","03.03.21","Mi","12:00","14:00","1:30","Kellner","KL","Feige",""
-"12021","Mathematik II","Bachelor EI","2","2016","5","01.03.21","Mo","13:30","15:30","1:30","Meier H.-G.","KL","Kerkhoff",""
-"14021","Naturwissenschaftliche Grundlagen II","Bachelor EI","2","2016","4","27.02.21","Sa","11:30","13:30","1:30","Prochotta","KL","Braun, A.",""
-"13021","Grundlagen der Informatik II","Bachelor EI","2","2016","5","04.03.21","Do","08:30","10:00","1:00","Rieß","KL","Scheubel",""
-"11021","Grundlagen der Elektrotechnik II","Bachelor EI","2","2016","5","06.03.21","Sa","14:00","16:30","2:00","Wrede","KL","Gottkehaskamp",""
-"15021","Schaltungstechnik","Bachelor EI","3","2016","3","19.02.21","Fr","15:00","17:30","2:00","Feige","KL","Kellner",""
-"15041","Grundlagen der Betriebswirtschaftslehre","Bachelor EI","3","2016","4","24.02.21","Mi","16:00","18:30","2:00","Hölscheidt","KL","Hermannns",""
-"15021","Schaltungstechnik","Bachelor EI","3","2016","5","06.03.21","Sa","","","","Kellner","BP-HA","Feige","n.V."
-"15031","Software Engineering","Bachelor EI","3","2016","4","22.02.21","Mo","09:00","10:30","1:00","Lux","KL","Frese",""
-"12031","Mathematik III","Bachelor EI","3","2016","2","13.02.21","Sa","11:30","13:30","1:30","Meier H.-G.","KL","Kerkhoff",""
-"11031","Grundlagen der Elektrotechnik III","Bachelor EI","3","2016","4","26.02.21","Fr","09:00","11:00","1:30","Pogatzki","KL","Gronau",""
-"13031","Grundlagen der Informatik III","Bachelor EI","3","2016","3","16.02.21","Di","08:30","11:00","2:00","Scheubel","KL","Rieß",""
-"20021","Regelungstechnik","Bachelor EI","4","2016","3","18.02.21","Do","12:30","14:30","1:30","Beck","KL","Protogerakis",""
-"40021","Datenübertragung und Protokolle","Bachelor EI","4","2016","2","12.02.21","Fr","11:00","13:30","2:00","Frese","KL","Pogatzki",""
-"41021","Sicherheit in Netzen","Bachelor EI","4","2016","5","06.03.21","Sa","","","","Frese","M","Pogatzki","n.V."
-"20041","Aktorik","Bachelor EI","4","2016","4","22.02.21","Mo","16:00","18:00","1:30","Gottkehaskamp","KL","Wrede",""
-"42011","Höchstfrequenztechnik","Bachelor EI","4","2016","3","17.02.21","Mi","10:00","12:00","1:30","Gronau","KL","Pogatzki",""
-"20071","Robotik","Bachelor EI","4","2016","5","06.03.21","Sa","","","","Haehnel","BP-HA","Feige","n.V."
-"50041","Aufbau- und Verbindungstechnik","Bachelor EI","4","2016","4","23.02.21","Di","13:00","15:00","1:30","Licht","KL","Fülber",""
-"41011","Software Engeineering II","Bachelor EI","4","2016","5","02.03.21","Di","","","","Lux","BP-V","Frese","n.V."
-"42021","Schaltungen und Systeme","Bachelor EI","4","2016","5","03.03.21","Mi","09:00","11:30","2:00","Pogatzki","KL","Gronau",""
-"40031","Signal- und Systemtheorie","Bachelor EI","4","2016","4","22.02.21","Mo","12:30","15:00","2:00","Pogatzki","KL","Gronau",""
-"40011","Embedded Systems I","Bachelor EI","4","2016","2","08.02.21","Mo","","","","Protogerakis","BP-V","Lux","n.V."
-"50011","Halbleitergrundlagen","Bachelor EI","4","2016","4","22.02.21","Mo","11:00","13:00","1:30","Rieß","KL","Licht",""
-"50051","Mikroelektronische Sensoren","Bachelor EI","4","2016","1","04.02.21","Do","16:00","18:00","1:30","Scheubel","KL","Rieß",""
-"30021","Hochspannungstechnik & EMV","Bachelor EI","5","2016","3","17.02.21","Mi","11:00","13:30","2:00","Adolph","KL","Arlt",""
-"30031","Elektrische Energieversorgung","Bachelor EI","5","2016","4","23.02.21","Di","","","","Arlt","BP-HA","Adolph","n.V."
-"42041","Optische Nachrichtentechnik","Bachelor EI","5","2016","4","25.02.21","Do","08:00","10:30","2:00","Braun A.","KL","Prochotta",""
-"20011","Sensorsysteme und Signalverarbeitung","Bachelor EI","5","2016","4","24.02.21","Mi","08:00","11:30","3:00","Feige","KL","Haehnel",""
-"40041","Digitale Signalverarbeitung","Bachelor EI","5","2016","5","06.03.21","Sa","","","","Frese","BP-HA","Pogatzki","n.V."
-"50031","Mikroelektronik","Bachelor EI","5","2016","2","08.02.21","Mo","08:00","10:30","2:00","Fülber","KL","Licht",""
-"30011","Elektrische Maschinen","Bachelor EI","5","2016","2","11.02.21","Do","08:00","10:30","2:00","Gottkehaskamp","KL","Wrede",""
-"42031","CAD von Mikrowellenschaltungen","Bachelor EI","5","2016","5","06.03.21","Sa","","","","Gronau","BP-HA","Pogatzki","n.V."
-"20051","Kommunikationssysteme","Bachelor EI","5","2016","5","05.03.21","Fr","14:30","16:00","1:00","Haehnel","KL","Protogerakis",""
-"20031","SPS & Sicherheitstechnik","Bachelor EI","5","2016","3","17.02.21","Mi","14:30","17:00","2:00","Haehnel / Beck","KL","Haehnel / Beck",""
-"50021","Halbleiterfertigung","Bachelor EI","5","2016","2","11.02.21","Do","","","","Licht / Fülber","M","Fülber / Licht","n.V."
-"41041","Betriebssysteme","Bachelor EI","5","2016","4","25.02.21","Do","","","","Lux","M","Frese","n.V."
-"16011","Englisch","Bachelor EI","5","2016","5","06.03.21","Sa","","","","Meier S.","BP-HA","Zupfer","n.V."
-"40051","Nachrichtencodierung","Bachelor EI","5","2016","1","03.02.21","Mi","08:30","11:00","2:00","Pogatzki","KL","Gronau",""
-"41031","Embedded Systems II","Bachelor EI","5","2016","2","09.02.21 (Moodle: 15.02.21)","Di","","","","Protogerakis","BP-V","Lux","n.V."
-"20061","Prozessleittechnik","Bachelor EI","5","2016","3","15.02.21","Mo","","","","Protogerakis","BP-V","Haehnel","n.V."
-"50071","Analoge Übertragungstechnik","Bachelor EI","5","2016","4","26.02.21","Fr","11:30","13:30","1:30","Rieß","KL","Scheubel",""
-"50061","Entwurf Integrierter Schaltungen","Bachelor EI","5","2016","4","22.02.21","Mo","11:00","13:00","1:30","Rieß","KL","Scheubel",""
-"30041","Leistungselektronik","Bachelor EI","5","2016","1","04.02.21","Do","11:30","14:00","2:00","Wrede","KL","Gottkehaskamp",""
-"12011","Mathematik I","Bachelor EI Dual","1","2016","4","25.02.21","Do","08:30","10:30","1:30","Meier H.-G.","KL","Kerkhoff",""
-"11011","Grundlagen der Elektrotechnik I","Bachelor EI Dual","1","2016","3","15.02.21","Mo","09:00","11:30","2:00","Wrede","KL","Gottkehaskamp",""
-"12021","Mathematik II","Bachelor EI Dual","2","2016","5","01.03.21","Mo","13:30","15:30","1:30","Meier H.-G.","KL","Kerkhoff",""
-"11021","Grundlagen der Elektrotechnik II","Bachelor EI Dual","2","2016","5","06.03.21","Sa","14:00","16:30","2:00","Wrede","KL","Gottkehaskamp",""
-"13011","Grundlagen der Informatik I","Bachelor EI Dual","3","2016","4","23.02.21","Di","11:30","13:30","1:30","Gronau","KL","Pogatzki",""
-"13011","Grundlagen der Informatik I","Bachelor EI Dual","3","2016","1","01.02.21","Mo","","","","Mandorf","KL","Gronau","Siemens"
-"14011","Naturwissenschaftliche Grundlagen I","Bachelor EI Dual","3","2016","3","18.02.21","Do","09:00","11:30","2:00","Prochotta","KL","Braun, A.",""
-"15011","Bauelemente","Bachelor EI Dual","4","2016","5","03.03.21","Mi","12:00","14:00","1:30","Feige","KL","Kellner",""
-"15011","Bauelemente","Bachelor EI Dual","4","2016","5","03.03.21","Mi","12:00","14:00","1:30","Kellner","KL","Feige",""
-"13021","Grundlagen der Informatik II","Bachelor EI Dual","4","2016","2","10.02.21","Mi","09:00","10:30","1:00","Mandorf","KL","Rieß","Siemens"
-"14021","Naturwissenschaftliche Grundlagen II","Bachelor EI Dual","4","2016","4","27.02.21","Sa","11:30","13:30","1:30","Prochotta","KL","Braun, A.",""
-"13021","Grundlagen der Informatik II","Bachelor EI Dual","4","2016","5","04.03.21","Do","08:30","10:00","1:00","Rieß","KL","Scheubel",""
-"15021","Schaltungstechnik","Bachelor EI Dual","5","2016","3","19.02.21","Fr","15:00","17:30","2:00","Feige","KL","Kellner",""
-"15041","Grundlagen der Betriebswirtschaftslehre","Bachelor EI Dual","5","2016","4","24.02.21","Mi","16:00","18:30","2:00","Hölscheidt","KL","Hermannns",""
-"15021","Schaltungstechnik","Bachelor EI Dual","5","2016","5","06.03.21","Sa","","","","Kellner","BP-HA","Feige","n.V."
-"15031","Software Engineering","Bachelor EI Dual","5","2016","4","22.02.21","Mo","09:00","10:30","1:00","Lux","KL","Frese",""
-"12031","Mathematik III","Bachelor EI Dual","5","2016","2","13.02.21","Sa","11:30","13:30","1:30","Meier H.-G.","KL","Kerkhoff",""
-"11031","Grundlagen der Elektrotechnik III","Bachelor EI Dual","5","2016","4","26.02.21","Fr","09:00","11:00","1:30","Pogatzki","KL","Gronau",""
-"13031","Grundlagen der Informatik III","Bachelor EI Dual","5","2016","3","16.02.21","Di","08:30","11:00","2:00","Scheubel","KL","Rieß",""
-"20021","Regelungstechnik","Bachelor EI Dual","6","2016","3","18.02.21","Do","12:30","14:30","1:30","Beck","KL","Protogerakis",""
-"40021","Datenübertragung und Protokolle","Bachelor EI Dual","6","2016","2","12.02.21","Fr","11:00","13:30","2:00","Frese","KL","Pogatzki",""
-"41021","Sicherheit in Netzen","Bachelor EI Dual","6","2016","5","06.03.21","Sa","","","","Frese","M","Pogatzki","n.V."
-"20041","Aktorik","Bachelor EI Dual","6","2016","4","22.02.21","Mo","16:00","18:00","1:30","Gottkehaskamp","KL","Wrede",""
-"42011","Höchstfrequenztechnik","Bachelor EI Dual","6","2016","3","17.02.21","Mi","10:00","12:00","1:30","Gronau","KL","Pogatzki",""
-"20071","Robotik","Bachelor EI Dual","6","2016","5","06.03.21","Sa","","","","Haehnel","BP-HA","Feige","n.V."
-"50041","Aufbau- und Verbindungstechnik","Bachelor EI Dual","6","2016","4","23.02.21","Di","13:00","15:00","1:30","Licht","KL","Fülber",""
-"41011","Software Engeineering II","Bachelor EI Dual","6","2016","5","02.03.21","Di","","","","Lux","BP-V","Frese","n.V."
-"42021","Schaltungen und Systeme","Bachelor EI Dual","6","2016","5","03.03.21","Mi","09:00","11:30","2:00","Pogatzki","KL","Gronau",""
-"40031","Signal- und Systemtheorie","Bachelor EI Dual","6","2016","4","22.02.21","Mo","12:30","15:00","2:00","Pogatzki","KL","Gronau",""
-"40011","Embedded Systems I","Bachelor EI Dual","6","2016","2","08.02.21","Mo","","","","Protogerakis","BP-V","Lux","n.V."
-"50011","Halbleitergrundlagen","Bachelor EI Dual","6","2016","4","22.02.21","Mo","11:00","13:00","1:30","Rieß","KL","Licht",""
-"50051","Mikroelektronische Sensoren","Bachelor EI Dual","6","2016","1","04.02.21","Do","16:00","18:00","1:30","Scheubel","KL","Rieß",""
-"30021","Hochspannungstechnik & EMV","Bachelor EI Dual","7","2016","3","17.02.21","Mi","11:00","13:30","2:00","Adolph","KL","Arlt",""
-"30031","Elektrische Energieversorgung","Bachelor EI Dual","7","2016","4","23.02.21","Di","","","","Arlt","BP-HA","Adolph","n.V."
-"42041","Optische Nachrichtentechnik","Bachelor EI Dual","7","2016","4","25.02.21","Do","08:00","10:30","2:00","Braun A.","KL","Prochotta",""
-"20011","Sensorsysteme und Signalverarbeitung","Bachelor EI Dual","7","2016","4","24.02.21","Mi","08:00","11:30","3:00","Feige","KL","Haehnel",""
-"40041","Digitale Signalverarbeitung","Bachelor EI Dual","7","2016","5","06.03.21","Sa","","","","Frese","BP-HA","Pogatzki","n.V."
-"50031","Mikroelektronik","Bachelor EI Dual","7","2016","2","08.02.21","Mo","08:00","10:30","2:00","Fülber","KL","Licht",""
-"30011","Elektrische Maschinen","Bachelor EI Dual","7","2016","2","11.02.21","Do","08:00","10:30","2:00","Gottkehaskamp","KL","Wrede",""
-"42031","CAD von Mikrowellenschaltungen","Bachelor EI Dual","7","2016","5","06.03.21","Sa","","","","Gronau","BP-HA","Pogatzki","n.V."
-"20051","Kommunikationssysteme","Bachelor EI Dual","7","2016","5","05.03.21","Fr","14:30","16:00","1:00","Haehnel","KL","Protogerakis",""
-"20031","SPS & Sicherheitstechnik","Bachelor EI Dual","7","2016","3","17.02.21","Mi","14:30","17:00","2:00","Haehnel / Beck","KL","Haehnel / Beck",""
-"50021","Halbleiterfertigung","Bachelor EI Dual","7","2016","2","11.02.21","Do","","","","Licht / Fülber","M","Fülber / Licht","n.V."
-"41041","Betriebssysteme","Bachelor EI Dual","7","2016","4","25.02.21","Do","","","","Lux","M","Frese","n.V."
-"16011","Englisch","Bachelor EI Dual","7","2016","5","06.03.21","Sa","","","","Meier S.","BP-HA","Zupfer","n.V."
-"40051","Nachrichtencodierung","Bachelor EI Dual","7","2016","1","03.02.21","Mi","08:30","11:00","2:00","Pogatzki","KL","Gronau",""
-"41031","Embedded Systems II","Bachelor EI Dual","7","2016","2","09.02.21","Di","","","","Protogerakis","BP-V","Lux","n.V."
-"20061","Prozessleittechnik","Bachelor EI Dual","7","2016","3","15.02.21","Mo","","","","Protogerakis","BP-V","Haehnel","n.V."
-"50071","Analoge Übertragungstechnik","Bachelor EI Dual","7","2016","4","26.02.21","Fr","11:30","13:30","1:30","Rieß","KL","Scheubel",""
-"50061","Entwurf Integrierter Schaltungen","Bachelor EI Dual","7","2016","4","22.02.21","Mo","11:00","13:00","1:30","Rieß","KL","Scheubel",""
-"30041","Leistungselektronik","Bachelor EI Dual","7","2016","1","04.02.21","Do","11:30","14:00","2:00","Wrede","KL","Gottkehaskamp",""
 6060,MATLAB in der Elektrotechnik,Bachelor ET,WMB,2010,5,06.03.21,Sa,,,,Braun A.,BP-PB,Meier H.-G.,n.V.
 6023,C# - Programmierung und Künstliche Intelligenz,Bachelor ET,WMB,2010,3,20.02.21,Sa,12:30,14:00,1:00,Braun G.,KL,Pogatzki,
 6055,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor ET,WMB,2010,3,19.02.21,Fr,11:30,13:30,1:30,Celik,KL,Gronau,
@@ -136,7 +36,6 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Raum,Pr
 6529,Einführung in das wissenschaftliche Arbeiten,Bachelor ET Dual,WMB,2010,5,06.03.21,Sa,,,,Schultheiß,BP-V,Lang,n.V.
 6522,Personalmanagement und Arbeitsrecht,Bachelor ET Dual,WMB,2010,4,25.02.21,Do,11:30,14:00,2:00,Stolpmann,KL,Schmid,
 6056,Projekt Informationstechnik – VoIP-Telefonanlage aus der Cloud,Bachelor ET Dual,WMB,2010,5,06.03.21,Sa,,,,Ulrich,BP-V,,n.V.
-6048,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor ET Dual,WMB,2010,5,06.03.21,Sa,,,,Wrede,BP-PB,Gottkehaskamp,n.V.
 6523,Managementansätze in der IT,Bachelor ET Dual,WMB,2010,5,06.03.21,Sa,,,,Zeller,M,,n.V.
 6060,MATLAB in der Elektrotechnik,Bachelor KIT,WMB,2010,5,06.03.21,Sa,,,,Braun A.,BP-PB,Meier H.-G.,n.V.
 6023,C# - Programmierung und Künstliche Intelligenz,Bachelor KIT,WMB,2010,3,20.02.21,Sa,12:30,14:00,1:00,Braun G.,KL,Pogatzki,
@@ -179,7 +78,6 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Raum,Pr
 3449,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor WIE,WMB,2012,5,06.03.21,Sa,,,,Wrede,BP-PB,Gottkehaskamp,n.V.
 3437,Grundlagen der Elektrotechnik II,Bachelor WIE,WMB,2012,5,06.03.21,Sa,14:00,16:30,2:00,Wrede,KL,Gottkehaskamp,
 4032,Managementansätze in der IT,Bachelor WIE,WMB,2012,5,06.03.21,Sa,,,,Zeller,M,,n.V.
-3412,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2013,3,20.02.21,Sa,12:30,14:00,1:00,Braun G.,KL,Pogatzki,
 3444,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2013,3,19.02.21,Fr,11:30,13:30,1:30,Celik,KL,Gronau,
 3443,Photovoltaik,Bachelor WIE,WMB,2013,4,26.02.21,Fr,11:30,14:00,2:00,Fülber / Wrede,KL,"Fülber, Wrede",
 3406,Schaltgeräte,Bachelor WIE,WMB,2013,5,06.03.21,Sa,,,,Göttlich,M,,n.V.
@@ -268,7 +166,6 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Raum,Pr
 60015,Lasertechnologie,Bachelor WIE,WMB,2017,1,06.02.21,Sa,10:00,12:00,1:30,Scheubel,KL,Rieß,
 72505,Personalmanagement und Arbeitsrecht,Bachelor WIE,WMB,2017,4,25.02.21,Do,11:30,14:00,2:00,Stolpmann,KL,Schmid,
 60020,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor WIE,WMB,2017,5,06.03.21,Sa,,,,Wrede,BP-PB,Gottkehaskamp,n.V.
-72508,Managementansätze in der IT,Bachelor WIE,WMB,2017,5,06.03.21,Sa,,,,Zeller,M,,n.V.
 6060,MATLAB in der Elektrotechnik,Bachelor WIE,WMB,2020,5,06.03.21,Sa,,,,Braun A.,BP-PB,Meier H.-G.,n.V.
 60008,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2020,3,20.02.21,Sa,12:30,14:00,1:00,Braun G.,KL,Pogatzki,
 60007,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2020,3,19.02.21,Fr,11:30,13:30,1:30,Celik,KL,Gronau,
@@ -291,3 +188,101 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Raum,Pr
 72505,Personalmanagement und Arbeitsrecht,Bachelor WIE,WMB,2020,4,25.02.21,Do,11:30,14:00,2:00,Stolpmann,KL,Schmid,
 60020,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor WIE,WMB,2020,5,06.03.21,Sa,,,,Wrede,BP-PB,Gottkehaskamp,n.V.
 72508,Managementansätze in der IT,Bachelor WIE,WMB,2020,5,06.03.21,Sa,,,,Zeller,M,,n.V.
+13011,Grundlagen der Informatik I,Bachelor EI,1,2016,4,23.02.21,Di,11:30,13:30,1:30,Gronau,KL,Pogatzki,
+12011,Mathematik I,Bachelor EI,1,2016,4,25.02.21,Do,08:30,10:30,1:30,Meier H.-G.,KL,Kerkhoff,
+14011,Naturwissenschaftliche Grundlagen I,Bachelor EI,1,2016,3,18.02.21,Do,09:00,11:30,2:00,Prochotta,KL,"Braun, A.",
+11011,Grundlagen der Elektrotechnik I,Bachelor EI,1,2016,3,15.02.21,Mo,09:00,11:30,2:00,Wrede,KL,Gottkehaskamp,
+15011,Bauelemente,Bachelor EI,2,2016,5,03.03.21,Mi,12:00,14:00,1:30,Feige,KL,Kellner,
+15011,Bauelemente,Bachelor EI,2,2016,5,03.03.21,Mi,12:00,14:00,1:30,Kellner,KL,Feige,
+12021,Mathematik II,Bachelor EI,2,2016,5,01.03.21,Mo,13:30,15:30,1:30,Meier H.-G.,KL,Kerkhoff,
+14021,Naturwissenschaftliche Grundlagen II,Bachelor EI,2,2016,4,27.02.21,Sa,11:30,13:30,1:30,Prochotta,KL,"Braun, A.",
+13021,Grundlagen der Informatik II,Bachelor EI,2,2016,5,04.03.21,Do,08:30,10:00,1:00,Rieß,KL,Scheubel,
+11021,Grundlagen der Elektrotechnik II,Bachelor EI,2,2016,5,06.03.21,Sa,14:00,16:30,2:00,Wrede,KL,Gottkehaskamp,
+15021,Schaltungstechnik,Bachelor EI,3,2016,3,19.02.21,Fr,15:00,17:30,2:00,Feige,KL,Kellner,
+15041,Grundlagen der Betriebswirtschaftslehre,Bachelor EI,3,2016,4,24.02.21,Mi,16:00,18:30,2:00,Hölscheidt,KL,Hermannns,
+15021,Schaltungstechnik,Bachelor EI,3,2016,5,06.03.21,Sa,,,,Kellner,BP-HA,Feige,n.V.
+15031,Software Engineering,Bachelor EI,3,2016,4,22.02.21,Mo,09:00,10:30,1:00,Lux,KL,Frese,
+12031,Mathematik III,Bachelor EI,3,2016,2,13.02.21,Sa,11:30,13:30,1:30,Meier H.-G.,KL,Kerkhoff,
+11031,Grundlagen der Elektrotechnik III,Bachelor EI,3,2016,4,26.02.21,Fr,09:00,11:00,1:30,Pogatzki,KL,Gronau,
+13031,Grundlagen der Informatik III,Bachelor EI,3,2016,3,16.02.21,Di,08:30,11:00,2:00,Scheubel,KL,Rieß,
+20021,Regelungstechnik,Bachelor EI,4,2016,3,18.02.21,Do,12:30,14:30,1:30,Beck,KL,Protogerakis,
+40021,Datenübertragung und Protokolle,Bachelor EI,4,2016,2,12.02.21,Fr,11:00,13:30,2:00,Frese,KL,Pogatzki,
+41021,Sicherheit in Netzen,Bachelor EI,4,2016,5,06.03.21,Sa,,,,Frese,M,Pogatzki,n.V.
+20041,Aktorik,Bachelor EI,4,2016,4,22.02.21,Mo,16:00,18:00,1:30,Gottkehaskamp,KL,Wrede,
+42011,Höchstfrequenztechnik,Bachelor EI,4,2016,3,17.02.21,Mi,10:00,12:00,1:30,Gronau,KL,Pogatzki,
+20071,Robotik,Bachelor EI,4,2016,5,06.03.21,Sa,,,,Haehnel,BP-HA,Feige,n.V.
+50041,Aufbau- und Verbindungstechnik,Bachelor EI,4,2016,4,23.02.21,Di,13:00,15:00,1:30,Licht,KL,Fülber,
+41011,Software Engeineering II,Bachelor EI,4,2016,5,02.03.21,Di,,,,Lux,BP-V,Frese,n.V.
+42021,Schaltungen und Systeme,Bachelor EI,4,2016,5,03.03.21,Mi,09:00,11:30,2:00,Pogatzki,KL,Gronau,
+40031,Signal- und Systemtheorie,Bachelor EI,4,2016,4,22.02.21,Mo,12:30,15:00,2:00,Pogatzki,KL,Gronau,
+40011,Embedded Systems I,Bachelor EI,4,2016,2,08.02.21,Mo,,,,Protogerakis,BP-V,Lux,n.V.
+50011,Halbleitergrundlagen,Bachelor EI,4,2016,4,22.02.21,Mo,11:00,13:00,1:30,Rieß,KL,Licht,
+50051,Mikroelektronische Sensoren,Bachelor EI,4,2016,1,04.02.21,Do,16:00,18:00,1:30,Scheubel,KL,Rieß,
+30021,Hochspannungstechnik & EMV,Bachelor EI,5,2016,3,17.02.21,Mi,11:00,13:30,2:00,Adolph,KL,Arlt,
+30031,Elektrische Energieversorgung,Bachelor EI,5,2016,4,23.02.21,Di,,,,Arlt,M,Adolph,n.V.
+20011,Sensorsysteme und Signalverarbeitung,Bachelor EI,5,2016,4,24.02.21,Mi,08:00,11:30,3:00,Feige,KL,Haehnel,
+40041,Digitale Signalverarbeitung,Bachelor EI,5,2016,5,06.03.21,Sa,,,,Frese,BP-HA,Pogatzki,n.V.
+50031,Mikroelektronik,Bachelor EI,5,2016,2,08.02.21,Mo,08:00,10:30,2:00,Fülber,KL,Licht,
+30011,Elektrische Maschinen,Bachelor EI,5,2016,2,11.02.21,Do,08:00,10:30,2:00,Gottkehaskamp,KL,Wrede,
+42031,CAD von Mikrowellenschaltungen,Bachelor EI,5,2016,5,06.03.21,Sa,,,,Gronau,BP-HA,Pogatzki,n.V.
+20051,Kommunikationssysteme,Bachelor EI,5,2016,5,05.03.21,Fr,14:30,16:00,1:00,Haehnel,KL,Protogerakis,
+20031,SPS & Sicherheitstechnik,Bachelor EI,5,2016,3,17.02.21,Mi,14:30,17:00,2:00,Haehnel / Beck,KL,Haehnel / Beck,
+50021,Halbleiterfertigung,Bachelor EI,5,2016,2,11.02.21,Do,,,,Licht / Fülber,M,Fülber / Licht,n.V.
+41041,Betriebssysteme,Bachelor EI,5,2016,4,25.02.21,Do,,,,Lux,M,Frese,n.V.
+16011,Englisch,Bachelor EI,5,2016,5,06.03.21,Sa,,,,Meier S.,BP-HA,Zupfer,n.V.
+40051,Nachrichtencodierung,Bachelor EI,5,2016,1,03.02.21,Mi,08:30,11:00,2:00,Pogatzki,KL,Gronau,
+41031,Embedded Systems II,Bachelor EI,5,2016,2,09.02.21,Di,,,,Protogerakis,BP-V,Lux,n.V.
+20061,Prozessleittechnik,Bachelor EI,5,2016,3,15.02.21,Mo,,,,Protogerakis,BP-V,Haehnel,n.V.
+50071,Analoge Übertragungstechnik,Bachelor EI,5,2016,4,26.02.21,Fr,11:30,13:30,1:30,Rieß,KL,Scheubel,
+50061,Entwurf Integrierter Schaltungen,Bachelor EI,5,2016,4,22.02.21,Mo,11:00,13:00,1:30,Rieß,KL,Scheubel,
+30041,Leistungselektronik,Bachelor EI,5,2016,1,04.02.21,Do,11:30,14:00,2:00,Wrede,KL,Gottkehaskamp,
+12011,Mathematik I,Bachelor EI Dual,1,2016,4,25.02.21,Do,08:30,10:30,1:30,Meier H.-G.,KL,Kerkhoff,
+11011,Grundlagen der Elektrotechnik I,Bachelor EI Dual,1,2016,3,15.02.21,Mo,09:00,11:30,2:00,Wrede,KL,Gottkehaskamp,
+12021,Mathematik II,Bachelor EI Dual,2,2016,5,01.03.21,Mo,13:30,15:30,1:30,Meier H.-G.,KL,Kerkhoff,
+11021,Grundlagen der Elektrotechnik II,Bachelor EI Dual,2,2016,5,06.03.21,Sa,14:00,16:30,2:00,Wrede,KL,Gottkehaskamp,
+13011,Grundlagen der Informatik I,Bachelor EI Dual,3,2016,4,23.02.21,Di,11:30,13:30,1:30,Gronau,KL,Pogatzki,
+13011,Grundlagen der Informatik I,Bachelor EI Dual,3,2016,1,01.02.21,Mo,,,,Mandorf,KL,Gronau,Siemens
+14011,Naturwissenschaftliche Grundlagen I,Bachelor EI Dual,3,2016,3,18.02.21,Do,09:00,11:30,2:00,Prochotta,KL,"Braun, A.",
+15011,Bauelemente,Bachelor EI Dual,4,2016,5,03.03.21,Mi,12:00,14:00,1:30,Feige,KL,Kellner,
+15011,Bauelemente,Bachelor EI Dual,4,2016,5,03.03.21,Mi,12:00,14:00,1:30,Kellner,KL,Feige,
+13021,Grundlagen der Informatik II,Bachelor EI Dual,4,2016,2,10.02.21,Mi,09:00,10:30,1:00,Mandorf,KL,Rieß,Siemens
+14021,Naturwissenschaftliche Grundlagen II,Bachelor EI Dual,4,2016,4,27.02.21,Sa,11:30,13:30,1:30,Prochotta,KL,"Braun, A.",
+13021,Grundlagen der Informatik II,Bachelor EI Dual,4,2016,5,04.03.21,Do,08:30,10:00,1:00,Rieß,KL,Scheubel,
+15021,Schaltungstechnik,Bachelor EI Dual,5,2016,3,19.02.21,Fr,15:00,17:30,2:00,Feige,KL,Kellner,
+15041,Grundlagen der Betriebswirtschaftslehre,Bachelor EI Dual,5,2016,4,24.02.21,Mi,16:00,18:30,2:00,Hölscheidt,KL,Hermannns,
+15021,Schaltungstechnik,Bachelor EI Dual,5,2016,5,06.03.21,Sa,,,,Kellner,BP-HA,Feige,n.V.
+15031,Software Engineering,Bachelor EI Dual,5,2016,4,22.02.21,Mo,09:00,10:30,1:00,Lux,KL,Frese,
+12031,Mathematik III,Bachelor EI Dual,5,2016,2,13.02.21,Sa,11:30,13:30,1:30,Meier H.-G.,KL,Kerkhoff,
+11031,Grundlagen der Elektrotechnik III,Bachelor EI Dual,5,2016,4,26.02.21,Fr,09:00,11:00,1:30,Pogatzki,KL,Gronau,
+13031,Grundlagen der Informatik III,Bachelor EI Dual,5,2016,3,16.02.21,Di,08:30,11:00,2:00,Scheubel,KL,Rieß,
+20021,Regelungstechnik,Bachelor EI Dual,6,2016,3,18.02.21,Do,12:30,14:30,1:30,Beck,KL,Protogerakis,
+40021,Datenübertragung und Protokolle,Bachelor EI Dual,6,2016,2,12.02.21,Fr,11:00,13:30,2:00,Frese,KL,Pogatzki,
+41021,Sicherheit in Netzen,Bachelor EI Dual,6,2016,5,06.03.21,Sa,,,,Frese,M,Pogatzki,n.V.
+42011,Höchstfrequenztechnik,Bachelor EI Dual,6,2016,3,17.02.21,Mi,10:00,12:00,1:30,Gronau,KL,Pogatzki,
+20071,Robotik,Bachelor EI Dual,6,2016,5,06.03.21,Sa,,,,Haehnel,BP-HA,Feige,n.V.
+50041,Aufbau- und Verbindungstechnik,Bachelor EI Dual,6,2016,4,23.02.21,Di,13:00,15:00,1:30,Licht,KL,Fülber,
+41011,Software Engeineering II,Bachelor EI Dual,6,2016,5,02.03.21,Di,,,,Lux,BP-V,Frese,n.V.
+42021,Schaltungen und Systeme,Bachelor EI Dual,6,2016,5,03.03.21,Mi,09:00,11:30,2:00,Pogatzki,KL,Gronau,
+40031,Signal- und Systemtheorie,Bachelor EI Dual,6,2016,4,22.02.21,Mo,12:30,15:00,2:00,Pogatzki,KL,Gronau,
+40011,Embedded Systems I,Bachelor EI Dual,6,2016,2,08.02.21,Mo,,,,Protogerakis,BP-V,Lux,n.V.
+50011,Halbleitergrundlagen,Bachelor EI Dual,6,2016,4,22.02.21,Mo,11:00,13:00,1:30,Rieß,KL,Licht,
+50051,Mikroelektronische Sensoren,Bachelor EI Dual,6,2016,1,04.02.21,Do,16:00,18:00,1:30,Scheubel,KL,Rieß,
+30021,Hochspannungstechnik & EMV,Bachelor EI Dual,7,2016,3,17.02.21,Mi,11:00,13:30,2:00,Adolph,KL,Arlt,
+30031,Elektrische Energieversorgung,Bachelor EI Dual,7,2016,4,23.02.21,Di,,,,Arlt,M,Adolph,n.V.
+42041,Optische Nachrichtentechnik,Bachelor EI Dual,7,2016,4,25.02.21,Do,08:00,10:30,2:00,Braun A.,KL,Prochotta,
+20011,Sensorsysteme und Signalverarbeitung,Bachelor EI Dual,7,2016,4,24.02.21,Mi,08:00,11:30,3:00,Feige,KL,Haehnel,
+40041,Digitale Signalverarbeitung,Bachelor EI Dual,7,2016,5,06.03.21,Sa,,,,Frese,BP-HA,Pogatzki,n.V.
+50031,Mikroelektronik,Bachelor EI Dual,7,2016,2,08.02.21,Mo,08:00,10:30,2:00,Fülber,KL,Licht,
+30011,Elektrische Maschinen,Bachelor EI Dual,7,2016,2,11.02.21,Do,08:00,10:30,2:00,Gottkehaskamp,KL,Wrede,
+42031,CAD von Mikrowellenschaltungen,Bachelor EI Dual,7,2016,5,06.03.21,Sa,,,,Gronau,BP-HA,Pogatzki,n.V.
+20051,Kommunikationssysteme,Bachelor EI Dual,7,2016,5,05.03.21,Fr,14:30,16:00,1:00,Haehnel,KL,Protogerakis,
+20031,SPS & Sicherheitstechnik,Bachelor EI Dual,7,2016,3,17.02.21,Mi,14:30,17:00,2:00,Haehnel / Beck,KL,Haehnel / Beck,
+50021,Halbleiterfertigung,Bachelor EI Dual,7,2016,2,11.02.21,Do,,,,Licht / Fülber,M,Fülber / Licht,n.V.
+41041,Betriebssysteme,Bachelor EI Dual,7,2016,4,25.02.21,Do,,,,Lux,M,Frese,n.V.
+16011,Englisch,Bachelor EI Dual,7,2016,5,06.03.21,Sa,,,,Meier S.,BP-HA,Zupfer,n.V.
+40051,Nachrichtencodierung,Bachelor EI Dual,7,2016,1,03.02.21,Mi,08:30,11:00,2:00,Pogatzki,KL,Gronau,
+41031,Embedded Systems II,Bachelor EI Dual,7,2016,2,09.02.21,Di,,,,Protogerakis,BP-V,Lux,n.V.
+20061,Prozessleittechnik,Bachelor EI Dual,7,2016,3,15.02.21,Mo,,,,Protogerakis,BP-V,Haehnel,n.V.
+50071,Analoge Übertragungstechnik,Bachelor EI Dual,7,2016,4,26.02.21,Fr,11:30,13:30,1:30,Rieß,KL,Scheubel,
+50061,Entwurf Integrierter Schaltungen,Bachelor EI Dual,7,2016,4,22.02.21,Mo,11:00,13:00,1:30,Rieß,KL,Scheubel,
+30041,Leistungselektronik,Bachelor EI Dual,7,2016,1,04.02.21,Do,11:30,14:00,2:00,Wrede,KL,Gottkehaskamp,
