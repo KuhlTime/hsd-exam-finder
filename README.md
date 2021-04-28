@@ -20,7 +20,7 @@ My original intention was to automatically get notified when the date of one of 
 
 ## Setup
 
-In order to get up and going on your computer.
+In order to get up and running on your computer.
 
 1. Install [NodeJS](https://nodejs.org) on your computer
 2. Download the repository
