@@ -33,7 +33,7 @@ In order to get up and running on your computer follow these steps:
     ```
 4. Start the development server
     ```sh
-    npm run dev
+    npm start
     ```
 
 ## 🖥 Tech Stack
