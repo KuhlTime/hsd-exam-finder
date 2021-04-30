@@ -32,7 +32,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: ${{ github.event_name != 'pull_request' }}
-          tags: ghcr.io/$GITHUB_REPOSITORY:latest
+          tags: ghcr.io/${{ env.GITHUB_REPOSITORY }}:latest
 
       - name: Image digest
         run: echo ${{ steps.docker_build.outputs.digest }}
