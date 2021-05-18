@@ -1,4 +1,6 @@
-![Banner](assets/banner-hsd-exam-finder.png)
+<p align="center">
+  <img src="assets/banner-hsd-exam-finder.png" alt="Banner" height="240px">
+</p>
 
 
 ![Preview](assets/preview.png)
