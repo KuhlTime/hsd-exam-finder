@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-hsd-exam-finder.png" alt="Banner" height="240px">
+  <img src="assets/banner-hsd-exam-finder.png" alt="Banner" max-height="240px">
 </p>
 
 
