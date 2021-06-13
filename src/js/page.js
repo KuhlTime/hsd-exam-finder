@@ -104,7 +104,7 @@ import dataUrl from 'url:../data.csv'
     // Icon for Prüfungsform
     // https://material.io/resources/icons/
     var icon = (() => {
-      switch (element[12]) {
+      switch (element[11]) {
         case 'KL':
           return 'edit'
         case 'M':
@@ -125,8 +125,8 @@ import dataUrl from 'url:../data.csv'
     $row.append(`<td>${element[4]}</td>`) // PO
     $row.append($dateElement) // Datum
     $row.append(`<td>${element[8]}</td>`) // Beginn
-    $row.append(`<td>${element[10]}</td>`) // Dauer
-    $row.append(`<td>${element[11]}<br>${element[13]}</td>`) // Prüfer
+    $row.append(`<td>${element[9]}</td>`) // Dauer
+    $row.append(`<td>${element[10]}<br>${element[12]}</td>`) // Prüfer
     $row.append(`<td><i class="material-icons">${icon}</i></td>`) // Prüfungsform Icon
 
     $('tbody').append($row)
