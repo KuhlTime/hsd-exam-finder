@@ -1,100 +1,304 @@
 Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer,Prüfungsform,Zweitprüfer,Bemerkung
-13011,Grundlagen der Informatik I,Bachelor EI,1,2016,X,12.07.21,Mo,16:00,1:30,Gronau,KL,Pogatzki,
-12011,Mathematik I,Bachelor EI,1,2016,2,28.07.21,Mi,15:00,1:30,Meier H.-G.,KL,Kerkhoff,
-14011,Naturwissenschaftliche Grundlagen I,Bachelor EI,1,2016,3,02.08.21,Mo,14:30,1:30,Prochotta,KL,"Braun, A.",
-11011,Grundlagen der Elektrotechnik I,Bachelor EI,1,2016,4,13.08.21,Fr,11:30,2:00,Wrede,KL,Gottkehaskamp,
-15011,Bauelemente,Bachelor EI,2,2016,4,13.08.21,Fr,14:00,1:30,Feige,KL,Kellner,
-15011,Bauelemente,Bachelor EI,2,2016,4,10.08.21,Di,08:00,1:30,Kellner,KL,Feige,"online beaufsichtigte Klausur (Proctoring)"
-12021,Mathematik II,Bachelor EI,2,2016,1,23.07.21,Fr,14:00,1:30,Meier H.-G.,KL,Kerkhoff,
-14021,Naturwissenschaftliche Grundlagen II,Bachelor EI,2,2016,2,26.07.21,Mo,08:00,1:00,Prochotta,KL,"Braun, A.",
-13021,Grundlagen der Informatik II,Bachelor EI,2,2016,X,15.07.21,Do,11:30,1:00,Rieß,KL,Scheubel,
-11021,Grundlagen der Elektrotechnik II,Bachelor EI,2,2016,5,18.08.21,Mi,16:00,2:00,Wrede,KL,Gottkehaskamp,
-15021,Schaltungstechnik,Bachelor EI,3,2016,3,03.08.21,Di,12:30,2:00,Feige,KL,Kellner,
-15041,Grundlagen der Betriebswirtschaftslehre,Bachelor EI,3,2016,4,11.08.21,Mi,08:00,2:00,Hölscheidt,KL,Hermannns,
-15021,Schaltungstechnik,Bachelor EI,3,2016,3,03.08.21,Di,12:30,2:00,Kellner,KL,Feige,"online beaufsichtigte Klausur (Proctoring)"
+13011,Grundlagen der Informatik I,Bachelor EI,1,2016,X,12.07.21,Mo,16:00,01:30,Gronau,KL,Pogatzki,
+12011,Mathematik I,Bachelor EI,1,2016,2,28.07.21,Mi,15:00,01:30,Meier H.-G.,KL,Kerkhoff,
+14011,Naturwissenschaftliche Grundlagen I,Bachelor EI,1,2016,3,02.08.21,Mo,14:30,01:30,Prochotta,KL,"Braun, A.",
+11011,Grundlagen der Elektrotechnik I,Bachelor EI,1,2016,4,13.08.21,Fr,11:30,02:00,Wrede,KL,Gottkehaskamp,
+15011,Bauelemente,Bachelor EI,2,2016,4,13.08.21,Fr,14:00,01:30,Feige,KL,Kellner,
+15011,Bauelemente,Bachelor EI,2,2016,4,10.08.21,Di,08:00,01:30,Kellner,KL,Feige,"online beaufsichtigte Klausur (Proctoring)"
+12021,Mathematik II,Bachelor EI,2,2016,1,23.07.21,Fr,14:00,01:30,Meier H.-G.,KL,Kerkhoff,
+14021,Naturwissenschaftliche Grundlagen II,Bachelor EI,2,2016,2,26.07.21,Mo,08:00,01:00,Prochotta,KL,"Braun, A.",
+13021,Grundlagen der Informatik II,Bachelor EI,2,2016,X,15.07.21,Do,11:30,01:00,Rieß,KL,Scheubel,
+11021,Grundlagen der Elektrotechnik II,Bachelor EI,2,2016,5,18.08.21,Mi,16:00,02:00,Wrede,KL,Gottkehaskamp,
+15021,Schaltungstechnik,Bachelor EI,3,2016,3,03.08.21,Di,12:30,02:00,Feige,KL,Kellner,
+15041,Grundlagen der Betriebswirtschaftslehre,Bachelor EI,3,2016,4,11.08.21,Mi,08:00,02:00,Hölscheidt,KL,Hermannns,
+15021,Schaltungstechnik,Bachelor EI,3,2016,3,03.08.21,Di,12:30,02:00,Kellner,KL,Feige,"online beaufsichtigte Klausur (Proctoring)"
 15031,Software Engineering,Bachelor EI,3,2016,5,17.08.21,Di,,,Lux,M,Frese,T.n.V. / Dauer: 20-40 Min
-12031,Mathematik III,Bachelor EI,3,2016,X,17.07.21,Sa,11:00,1:30,Meier H.-G.,KL,Kerkhoff,
-11031,Grundlagen der Elektrotechnik III,Bachelor EI,3,2016,1,21.07.21,Mi,10:00,1:30,Pogatzki,KL,Gronau,
-13031,Grundlagen der Informatik III,Bachelor EI,3,2016,2,27.07.21,Di,12:00,2:00,Scheubel,KL,Rieß,
-20021,Regelungstechnik,Bachelor EI,4,2016,1,22.07.21,Do,16:00,1:30,Beck,KL,Protogerakis,"online beaufsichtigte Klausur (Proctoring)"
-40021,Datenübertragung und Protokolle,Bachelor EI,4,2016,2,29.07.21,Do,08:00,2:00,Frese,KL,Pogatzki,
+12031,Mathematik III,Bachelor EI,3,2016,X,17.07.21,Sa,11:00,01:30,Meier H.-G.,KL,Kerkhoff,
+11031,Grundlagen der Elektrotechnik III,Bachelor EI,3,2016,1,21.07.21,Mi,10:00,01:30,Pogatzki,KL,Gronau,
+13031,Grundlagen der Informatik III,Bachelor EI,3,2016,2,27.07.21,Di,12:00,02:00,Scheubel,KL,Rieß,
+20021,Regelungstechnik,Bachelor EI,4,2016,1,22.07.21,Do,16:00,01:30,Beck,KL,Protogerakis,"online beaufsichtigte Klausur (Proctoring)"
+40021,Datenübertragung und Protokolle,Bachelor EI,4,2016,2,29.07.21,Do,08:00,02:00,Frese,KL,Pogatzki,
 41021,Sicherheit in Netzen,Bachelor EI,4,2016,X,13.07.21,Di,,,Frese,BP-PB,Pogatzki,T.n.V.
-20041,Aktorik,Bachelor EI,4,2016,3,06.08.21,Fr,14:30,1:30,Gottkehaskamp,KL,Wrede,
-42011,Höchstfrequenztechnik,Bachelor EI,4,2016,5,19.08.21,Do,10:00,1:30,Gronau,KL,Pogatzki,
-20071,Robotik,Bachelor EI,4,2016,5,17.08.21,Di,14:30,1:00,Haehnel,KL,Feige,
-50041,Aufbau- und Verbindungstechnik,Bachelor EI,4,2016,2,26.07.21,Mo,11:00,1:30,Licht,M,Fülber,T.n.V. / Dauer: 20-40 Min
+20041,Aktorik,Bachelor EI,4,2016,3,06.08.21,Fr,14:30,01:30,Gottkehaskamp,KL,Wrede,
+42011,Höchstfrequenztechnik,Bachelor EI,4,2016,5,19.08.21,Do,10:00,01:30,Gronau,KL,Pogatzki,
+20071,Robotik,Bachelor EI,4,2016,5,17.08.21,Di,14:30,01:00,Haehnel,KL,Feige,
+50041,Aufbau- und Verbindungstechnik,Bachelor EI,4,2016,2,26.07.21,Mo,11:00,01:30,Licht,M,Fülber,T.n.V. / Dauer: 20-40 Min
 41011,Software Engeineering II,Bachelor EI,4,2016,5,17.08.21,Di,,,Lux,M,Frese,T.n.V. / Dauer: 20-40 Min
-42021,Schaltungen und Systeme,Bachelor EI,4,2016,5,16.08.21,Mo,13:00,2:00,Pogatzki,KL,Gronau,
-40031,Signal- und Systemtheorie,Bachelor EI,4,2016,5,20.08.21,Fr,11:30,2:00,Pogatzki,KL,Gronau,
+42021,Schaltungen und Systeme,Bachelor EI,4,2016,5,16.08.21,Mo,13:00,02:00,Pogatzki,KL,Gronau,
+40031,Signal- und Systemtheorie,Bachelor EI,4,2016,5,20.08.21,Fr,11:30,02:00,Pogatzki,KL,Gronau,
 40011,Embedded Systems I,Bachelor EI,4,2016,3,06.08.21,Fr,,,Protogerakis,BP-V,Lux,T.n.V. / Dauer: 20-40 Min
-50011,Halbleitergrundlagen,Bachelor EI,4,2016,4,09.08.21,Mo,09:00,1:00,Rieß,KL,Licht,
-50051,Mikroelektronische Sensoren,Bachelor EI,4,2016,X,13.07.21,Di,10:30,1:30,Scheubel,KL,Rieß,
-30021,Hochspannungstechnik & EMV,Bachelor EI,5,2016,2,29.07.21,Do,14:30,2:00,Schoft,KL,Arlt,
+50011,Halbleitergrundlagen,Bachelor EI,4,2016,4,09.08.21,Mo,09:00,01:00,Rieß,KL,Licht,
+50051,Mikroelektronische Sensoren,Bachelor EI,4,2016,X,13.07.21,Di,10:30,01:30,Scheubel,KL,Rieß,
+30021,Hochspannungstechnik & EMV,Bachelor EI,5,2016,2,29.07.21,Do,14:30,02:00,Schoft,KL,Arlt,
 30031,Elektrische Energieversorgung,Bachelor EI,5,2016,4,12.08.21,Do,,,Arlt,M,,T.n.V. / Dauer: 20-40 Min
-20011,Sensorsysteme und Signalverarbeitung,Bachelor EI,5,2016,2,30.07.21,Fr,08:00,3:00,Feige,KL,Haehnel,
-40041,Digitale Signalverarbeitung,Bachelor EI,5,2016,2,30.07.21,Fr,11:30,2:00,Frese,KL,Pogatzki,
-50031,Mikroelektronik,Bachelor EI,5,2016,5,19.08.21,Do,08:00,2:00,Fülber,KL,Licht,
-30011,Elektrische Maschinen,Bachelor EI,5,2016,X,16.07.21,Fr,11:00,2:00,Gottkehaskamp,KL,Wrede,
+20011,Sensorsysteme und Signalverarbeitung,Bachelor EI,5,2016,2,30.07.21,Fr,08:00,03:00,Feige,KL,Haehnel,
+40041,Digitale Signalverarbeitung,Bachelor EI,5,2016,2,30.07.21,Fr,11:30,02:00,Frese,KL,Pogatzki,
+50031,Mikroelektronik,Bachelor EI,5,2016,5,19.08.21,Do,08:00,02:00,Fülber,KL,Licht,
+30011,Elektrische Maschinen,Bachelor EI,5,2016,X,16.07.21,Fr,11:00,02:00,Gottkehaskamp,KL,Wrede,
 42031,CAD von Mikrowellenschaltungen,Bachelor EI,5,2016,5,17.08.21,Di,,,Gronau,BP-HA,Pogatzki,T.n.V.
-20051,Kommunikationssysteme,Bachelor EI,5,2016,5,16.08.21,Mo,10:30,1:00,Haehnel,KL,Protogerakis,
-20031,SPS & Sicherheitstechnik,Bachelor EI,5,2016,5,20.08.21,Fr,14:30,2:00,"Haehnel, Beck",KL,"Haehnel, Beck","online beaufsichtigte Klausur (Proctoring)"
+20051,Kommunikationssysteme,Bachelor EI,5,2016,5,16.08.21,Mo,10:30,01:00,Haehnel,KL,Protogerakis,
+20031,SPS & Sicherheitstechnik,Bachelor EI,5,2016,5,20.08.21,Fr,14:30,02:00,"Haehnel, Beck",KL,"Haehnel, Beck","online beaufsichtigte Klausur (Proctoring)"
 50021,Halbleiterfertigung,Bachelor EI,5,2016,3,06.08.21,Fr,,,"Licht, Fülber",M,"Fülber, Licht",T.n.V. / Dauer: 20-40 Min
 41041,Betriebssysteme,Bachelor EI,5,2016,3,02.08.21,Mo,,,Lux,M,Frese,T.n.V. / Dauer: 20-40 Min
 16011,Englisch,Bachelor EI,5,2016,5,20.08.21,Fr,,,Meier S.,BP-HA,Zupfer,T.n.V.
-40051,Nachrichtencodierung,Bachelor EI,5,2016,2,26.07.21,Mo,14:00,2:00,Pogatzki,KL,Gronau,
+40051,Nachrichtencodierung,Bachelor EI,5,2016,2,26.07.21,Mo,14:00,02:00,Pogatzki,KL,Gronau,
 41031,Embedded Systems II,Bachelor EI,5,2016,2,27.07.21,Di,,,Protogerakis,BP-V,Lux,T.n.V. / Dauer: 20-40 Min
 20061,Prozessleittechnik,Bachelor EI,5,2016,3,05.08.21,Do,,,Protogerakis,BP-V,Haehnel,T.n.V. / Dauer: 20-40 Min
-50071,Analoge Übertragungstechnik,Bachelor EI,5,2016,5,17.08.21,Di,14:00,1:00,Rieß,KL,Scheubel,
-50061,Entwurf Integrierter Schaltungen,Bachelor EI,5,2016,4,09.08.21,Mo,09:00,1:00,Rieß,KL,Scheubel,
-30041,Leistungselektronik und Antriebsregelung,Bachelor EI,5,2016,3,05.08.21,Do,09:00,2:00,Wrede,KL,Gottkehaskamp,
-12011,Mathematik I,Bachelor EI Dual,1,2016,2,28.07.21,Mi,15:00,1:30,Meier H.-G.,KL,Kerkhoff,
-11011,Grundlagen der Elektrotechnik I,Bachelor EI Dual,1,2016,4,13.08.21,Fr,11:30,2:00,Wrede,KL,Gottkehaskamp,
-12021,Mathematik II,Bachelor EI Dual,2,2016,1,23.07.21,Fr,14:00,1:30,Meier H.-G.,KL,Kerkhoff,
-11021,Grundlagen der Elektrotechnik II,Bachelor EI Dual,2,2016,5,18.08.21,Mi,16:00,2:00,Wrede,KL,Gottkehaskamp,
-13011,Grundlagen der Informatik I,Bachelor EI Dual,3,2016,X,12.07.21,Mo,16:00,1:30,Gronau,KL,Pogatzki,
-13011,Grundlagen der Informatik I,Bachelor EI Dual,3,2016,X,12.07.21,Mo,16:00,1:30,Mandorf,KL,Gronau,Siemens
-14011,Naturwissenschaftliche Grundlagen I,Bachelor EI Dual,3,2016,3,02.08.21,Mo,14:30,1:30,Prochotta,KL,"Braun, A.",
-15011,Bauelemente,Bachelor EI Dual,4,2016,4,13.08.21,Fr,14:00,1:30,Feige,KL,Kellner,
-15011,Bauelemente,Bachelor EI Dual,4,2016,4,10.08.21,Di,08:00,1:30,Kellner,KL,Feige,"online beaufsichtigte Klausur (Proctoring)"
-13021,Grundlagen der Informatik II,Bachelor EI Dual,4,2016,X,15.07.21,Do,11:30,1:00,Mandorf,KL,Rieß,Siemens
-14021,Naturwissenschaftliche Grundlagen II,Bachelor EI Dual,4,2016,2,26.07.21,Mo,08:00,1:00,Prochotta,KL,"Braun, A.",
-13021,Grundlagen der Informatik II,Bachelor EI Dual,4,2016,X,15.07.21,Do,11:30,1:00,Rieß,KL,Scheubel,
-15021,Schaltungstechnik,Bachelor EI Dual,5,2016,3,03.08.21,Di,12:30,2:00,Feige,KL,Kellner,
-15041,Grundlagen der Betriebswirtschaftslehre,Bachelor EI Dual,5,2016,4,11.08.21,Mi,08:00,2:00,Hölscheidt,KL,Hermannns,
-15021,Schaltungstechnik,Bachelor EI Dual,5,2016,3,03.08.21,Di,12:30,2:00,Kellner,KL,Feige,"online beaufsichtigte Klausur (Proctoring)"
+50071,Analoge Übertragungstechnik,Bachelor EI,5,2016,5,17.08.21,Di,14:00,01:00,Rieß,KL,Scheubel,
+50061,Entwurf Integrierter Schaltungen,Bachelor EI,5,2016,4,09.08.21,Mo,09:00,01:00,Rieß,KL,Scheubel,
+30041,Leistungselektronik und Antriebsregelung,Bachelor EI,5,2016,3,05.08.21,Do,09:00,02:00,Wrede,KL,Gottkehaskamp,
+12011,Mathematik I,Bachelor EI Dual,1,2016,2,28.07.21,Mi,15:00,01:30,Meier H.-G.,KL,Kerkhoff,
+11011,Grundlagen der Elektrotechnik I,Bachelor EI Dual,1,2016,4,13.08.21,Fr,11:30,02:00,Wrede,KL,Gottkehaskamp,
+12021,Mathematik II,Bachelor EI Dual,2,2016,1,23.07.21,Fr,14:00,01:30,Meier H.-G.,KL,Kerkhoff,
+11021,Grundlagen der Elektrotechnik II,Bachelor EI Dual,2,2016,5,18.08.21,Mi,16:00,02:00,Wrede,KL,Gottkehaskamp,
+13011,Grundlagen der Informatik I,Bachelor EI Dual,3,2016,X,12.07.21,Mo,16:00,01:30,Gronau,KL,Pogatzki,
+13011,Grundlagen der Informatik I,Bachelor EI Dual,3,2016,X,12.07.21,Mo,16:00,01:30,Mandorf,KL,Gronau,Siemens
+14011,Naturwissenschaftliche Grundlagen I,Bachelor EI Dual,3,2016,3,02.08.21,Mo,14:30,01:30,Prochotta,KL,"Braun, A.",
+15011,Bauelemente,Bachelor EI Dual,4,2016,4,13.08.21,Fr,14:00,01:30,Feige,KL,Kellner,
+15011,Bauelemente,Bachelor EI Dual,4,2016,4,10.08.21,Di,08:00,01:30,Kellner,KL,Feige,"online beaufsichtigte Klausur (Proctoring)"
+13021,Grundlagen der Informatik II,Bachelor EI Dual,4,2016,X,15.07.21,Do,11:30,01:00,Mandorf,KL,Rieß,Siemens
+14021,Naturwissenschaftliche Grundlagen II,Bachelor EI Dual,4,2016,2,26.07.21,Mo,08:00,01:00,Prochotta,KL,"Braun, A.",
+13021,Grundlagen der Informatik II,Bachelor EI Dual,4,2016,X,15.07.21,Do,11:30,01:00,Rieß,KL,Scheubel,
+15021,Schaltungstechnik,Bachelor EI Dual,5,2016,3,03.08.21,Di,12:30,02:00,Feige,KL,Kellner,
+15041,Grundlagen der Betriebswirtschaftslehre,Bachelor EI Dual,5,2016,4,11.08.21,Mi,08:00,02:00,Hölscheidt,KL,Hermannns,
+15021,Schaltungstechnik,Bachelor EI Dual,5,2016,3,03.08.21,Di,12:30,02:00,Kellner,KL,Feige,"online beaufsichtigte Klausur (Proctoring)"
 15031,Software Engineering,Bachelor EI Dual,5,2016,5,17.08.21,Di,,,Lux,M,Frese,T.n.V. / Dauer: 20-40 Min
-12031,Mathematik III,Bachelor EI Dual,5,2016,X,17.07.21,Sa,11:00,1:30,Meier H.-G.,KL,Kerkhoff,
-11031,Grundlagen der Elektrotechnik III,Bachelor EI Dual,5,2016,1,21.07.21,Mi,10:00,1:30,Pogatzki,KL,Gronau,
-13031,Grundlagen der Informatik III,Bachelor EI Dual,5,2016,2,27.07.21,Di,12:00,2:00,Scheubel,KL,Rieß,
-20021,Regelungstechnik,Bachelor EI Dual,6,2016,1,22.07.21,Do,16:00,1:30,Beck,KL,Protogerakis,"online beaufsichtigte Klausur (Proctoring)"
-40021,Datenübertragung und Protokolle,Bachelor EI Dual,6,2016,2,29.07.21,Do,08:00,2:00,Frese,KL,Pogatzki,
+12031,Mathematik III,Bachelor EI Dual,5,2016,X,17.07.21,Sa,11:00,01:30,Meier H.-G.,KL,Kerkhoff,
+11031,Grundlagen der Elektrotechnik III,Bachelor EI Dual,5,2016,1,21.07.21,Mi,10:00,01:30,Pogatzki,KL,Gronau,
+13031,Grundlagen der Informatik III,Bachelor EI Dual,5,2016,2,27.07.21,Di,12:00,02:00,Scheubel,KL,Rieß,
+20021,Regelungstechnik,Bachelor EI Dual,6,2016,1,22.07.21,Do,16:00,01:30,Beck,KL,Protogerakis,"online beaufsichtigte Klausur (Proctoring)"
+40021,Datenübertragung und Protokolle,Bachelor EI Dual,6,2016,2,29.07.21,Do,08:00,02:00,Frese,KL,Pogatzki,
 41021,Sicherheit in Netzen,Bachelor EI Dual,6,2016,X,13.07.21,Di,,,Frese,BP-PB,Pogatzki,T.n.V.
-20041,Aktorik,Bachelor EI Dual,6,2016,3,06.08.21,Fr,14:30,1:30,Gottkehaskamp,KL,Wrede,
-42011,Höchstfrequenztechnik,Bachelor EI Dual,6,2016,5,19.08.21,Do,10:00,1:30,Gronau,KL,Pogatzki,
-20071,Robotik,Bachelor EI Dual,6,2016,5,17.08.21,Di,14:30,1:00,Haehnel,KL,Feige,
-50041,Aufbau- und Verbindungstechnik,Bachelor EI Dual,6,2016,2,26.07.21,Mo,11:00,1:30,Licht,M,Fülber,T.n.V. / Dauer: 20-40 Min
+20041,Aktorik,Bachelor EI Dual,6,2016,3,06.08.21,Fr,14:30,01:30,Gottkehaskamp,KL,Wrede,
+42011,Höchstfrequenztechnik,Bachelor EI Dual,6,2016,5,19.08.21,Do,10:00,01:30,Gronau,KL,Pogatzki,
+20071,Robotik,Bachelor EI Dual,6,2016,5,17.08.21,Di,14:30,01:00,Haehnel,KL,Feige,
+50041,Aufbau- und Verbindungstechnik,Bachelor EI Dual,6,2016,2,26.07.21,Mo,11:00,01:30,Licht,M,Fülber,T.n.V. / Dauer: 20-40 Min
 41011,Software Engineering II,Bachelor EI Dual,6,2016,5,17.08.21,Di,,,Lux,M,Frese,T.n.V. / Dauer: 20-40 Min
-42021,Schaltungen und Systeme,Bachelor EI Dual,6,2016,5,16.08.21,Mo,13:00,2:00,Pogatzki,KL,Gronau,
-40031,Signal- und Systemtheorie,Bachelor EI Dual,6,2016,5,20.08.21,Fr,11:30,2:00,Pogatzki,KL,Gronau,
-40011,Embedded Systems I,Bachelor EI Dual,6,2016,3,06.08.21,Fr,17:30,1:30,Mandorf,KL,,Siemens
+42021,Schaltungen und Systeme,Bachelor EI Dual,6,2016,5,16.08.21,Mo,13:00,02:00,Pogatzki,KL,Gronau,
+40031,Signal- und Systemtheorie,Bachelor EI Dual,6,2016,5,20.08.21,Fr,11:30,02:00,Pogatzki,KL,Gronau,
+40011,Embedded Systems I,Bachelor EI Dual,6,2016,3,06.08.21,Fr,17:30,01:30,Mandorf,KL,,Siemens
 40011,Embedded Systems I,Bachelor EI Dual,6,2016,3,06.08.21,Fr,,,Protogerakis,BP-V,Lux,T.n.V. / Dauer: 20-40 Min
-50011,Halbleitergrundlagen,Bachelor EI Dual,6,2016,4,09.08.21,Mo,09:00,1:00,Rieß,KL,Licht,
-50051,Mikroelektronische Sensoren,Bachelor EI Dual,6,2016,X,13.07.21,Di,10:30,1:30,Scheubel,KL,Rieß,
-30021,Hochspannungstechnik & EMV,Bachelor EI Dual,7,2016,2,29.07.21,Do,14:30,2:00,Schoft,KL,Arlt,
+50011,Halbleitergrundlagen,Bachelor EI Dual,6,2016,4,09.08.21,Mo,09:00,01:00,Rieß,KL,Licht,
+50051,Mikroelektronische Sensoren,Bachelor EI Dual,6,2016,X,13.07.21,Di,10:30,01:30,Scheubel,KL,Rieß,
+30021,Hochspannungstechnik & EMV,Bachelor EI Dual,7,2016,2,29.07.21,Do,14:30,02:00,Schoft,KL,Arlt,
 30031,Elektrische Energieversorgung,Bachelor EI Dual,7,2016,4,12.08.21,Do,,,Arlt,M,,T.n.V. / Dauer: 20-40 Min
-20011,Sensorsysteme und Signalverarbeitung,Bachelor EI Dual,7,2016,2,30.07.21,Fr,08:00,3:00,Feige,KL,Haehnel,
-40041,Digitale Signalverarbeitung,Bachelor EI Dual,7,2016,2,30.07.21,Fr,11:30,2:00,Frese,KL,Pogatzki,
-50031,Mikroelektronik,Bachelor EI Dual,7,2016,5,19.08.21,Do,08:00,2:00,Fülber,KL,Licht,
-30011,Elektrische Maschinen,Bachelor EI Dual,7,2016,X,16.07.21,Fr,11:00,2:00,Gottkehaskamp,KL,Wrede,
+20011,Sensorsysteme und Signalverarbeitung,Bachelor EI Dual,7,2016,2,30.07.21,Fr,08:00,03:00,Feige,KL,Haehnel,
+40041,Digitale Signalverarbeitung,Bachelor EI Dual,7,2016,2,30.07.21,Fr,11:30,02:00,Frese,KL,Pogatzki,
+50031,Mikroelektronik,Bachelor EI Dual,7,2016,5,19.08.21,Do,08:00,02:00,Fülber,KL,Licht,
+30011,Elektrische Maschinen,Bachelor EI Dual,7,2016,X,16.07.21,Fr,11:00,02:00,Gottkehaskamp,KL,Wrede,
 42031,CAD von Mikrowellenschaltungen,Bachelor EI Dual,7,2016,5,17.08.21,Di,,,Gronau,BP-HA,Pogatzki,T.n.V.
-20051,Kommunikationssysteme,Bachelor EI Dual,7,2016,5,16.08.21,Mo,10:30,1:00,Haehnel,KL,Protogerakis,
-20031,SPS & Sicherheitstechnik,Bachelor EI Dual,7,2016,5,20.08.21,Fr,14:30,2:00,"Haehnel, Beck",KL,"Haehnel, Beck","online beaufsichtigte Klausur (Proctoring)"
+20051,Kommunikationssysteme,Bachelor EI Dual,7,2016,5,16.08.21,Mo,10:30,01:00,Haehnel,KL,Protogerakis,
+20031,SPS & Sicherheitstechnik,Bachelor EI Dual,7,2016,5,20.08.21,Fr,14:30,02:00,"Haehnel, Beck",KL,"Haehnel, Beck","online beaufsichtigte Klausur (Proctoring)"
 50021,Halbleiterfertigung,Bachelor EI Dual,7,2016,3,06.08.21,Fr,,,"Licht, Fülber",M,"Fülber, Licht",T.n.V. / Dauer: 20-40 Min
 41041,Betriebssysteme,Bachelor EI Dual,7,2016,3,02.08.21,Mo,,,Lux,M,Frese,T.n.V. / Dauer: 20-40 Min
 16011,Englisch,Bachelor EI Dual,7,2016,5,20.08.21,Fr,,,Meier S.,BP-HA,Zupfer,T.n.V.
-40051,Nachrichtencodierung,Bachelor EI Dual,7,2016,2,26.07.21,Mo,14:00,2:00,Pogatzki,KL,Gronau,
+40051,Nachrichtencodierung,Bachelor EI Dual,7,2016,2,26.07.21,Mo,14:00,02:00,Pogatzki,KL,Gronau,
 41031,Embedded Systems II,Bachelor EI Dual,7,2016,2,27.07.21,Di,,,Protogerakis,BP-V,Lux,T.n.V. / Dauer: 20-40 Min
 20061,Prozessleittechnik,Bachelor EI Dual,7,2016,3,05.08.21,Do,,,Protogerakis,BP-V,Haehnel,T.n.V. / Dauer: 20-40 Min
-50071,Analoge Übertragungstechnik,Bachelor EI Dual,7,2016,5,17.08.21,Di,14:00,1:00,Rieß,KL,Scheubel,
-50061,Entwurf Integrierter Schaltungen,Bachelor EI Dual,7,2016,4,09.08.21,Mo,09:00,1:00,Rieß,KL,Scheubel,
+50071,Analoge Übertragungstechnik,Bachelor EI Dual,7,2016,5,17.08.21,Di,14:00,01:00,Rieß,KL,Scheubel,
+50061,Entwurf Integrierter Schaltungen,Bachelor EI Dual,7,2016,4,09.08.21,Mo,09:00,01:00,Rieß,KL,Scheubel,
 30041,Leistungselektronik und Antriebsregelung,Bachelor EI Dual,7,2016,3,05.08.21,Do,,,Wrede,KL,Gottkehaskamp,
+6021,Elektrothermische Prozesstechnik,Bachelor ET,WMB,2010,X,12.07.21,Mo,,,"Arlt, Schubotz",BP-HA,"Arlt, Schubotz",T.n.V.
+6060,MATLAB in der Elektrotechnik,Bachelor ET,WMB,2010,5,19.08.21,Do,,,Braun A.,BP-PB,Meier H.-G.,T.n.V.
+6023,C# - Programmierung und Künstliche Intelligenz,Bachelor ET,WMB,2010,3,07.08.21,Sa,10:00,01:00,Braun G.,KL,Pogatzki,
+6055,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor ET,WMB,2010,X,14.07.21,Mi,08:00,01:30,Celik,KL,Gronau,
+6502,Projektmanagement,Bachelor ET,WMB,2010,6,24.08.21,Di,,,Frese,BP-PB,Pogatzki,T.n.V.
+6052,Photovoltaik,Bachelor ET,WMB,2010,5,18.08.21,Mi,11:30,02:00,"Fülber, Wrede",KL,"Fülber, Wrede",
+6026,Studienprojekt Mikroelektronik,Bachelor ET,WMB,2010,7,30.08.21,Mo,,,Fülber,BP-PB + BP-V,"Licht, Scheubel",T.n.V. / Dauer: 20-40 Min
+6065,Numerische Mathematik mit Matlab,Bachelor ET,WMB,2010,7,31.08.21,Di,,01:30,Kerkhoff,KL,,
+6026,Studienprojekt Mikroelektronik,Bachelor ET,WMB,2010,7,30.08.21,Mo,,,Licht,BP-PB + BP-V,"Fülber, Scheubel",T.n.V. / Dauer: 20-40 Min
+6524,Pädagogisches Projekt,Bachelor ET,WMB,2010,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6044,Software Engineering Projekt,Bachelor ET,WMB,2010,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6508,Vorbereitung auf den TOEFL Test,Bachelor ET,WMB,2010,X,12.07.21,Mo,09:00,03:00,Meier S.,KL,Zupfer,"T.n.V. online beaufsichtigte Klausur (Proctoring)"
+6515,Wissenschaftliche Texte mit Latex,Bachelor ET,WMB,2010,7,31.08.21,Di,,,Protogerakis,BP-V,"Braun, A.",T.n.V. / Dauer: 20-40 Min
+6526,Mediation und Konfliktmanagement,Bachelor ET,WMB,2010,4,11.08.21,Mi,14:00,01:30,Ridder,KL,Lang,
+6011,Lasertechnologie,Bachelor ET,WMB,2010,1,24.07.21,Sa,12:30,01:30,Scheubel,KL,Rieß,
+6026,Studienprojekt Mikroelektronik,Bachelor ET,WMB,2010,7,30.08.21,Mo,,,Scheubel,BP-PB + BP-V,"Fülber, Licht",T.n.V. / Dauer: 20-40 Min
+6522,Personalmanagement und Arbeitsrecht,Bachelor ET,WMB,2010,4,12.08.21,Do,13:30,02:00,Stolpmann,KL,Schmid,"online beaufsichtigte Klausur (Proctoring)"
+6056,Projekt Informationstechnik – VoIP-Telefonanlage aus der Cloud,Bachelor ET,WMB,2010,7,31.08.21,Di,,,Ulrich,BP-V,,T.n.V. / Dauer: 20-40 Min
+6048,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor ET,WMB,2010,7,31.08.21,Di,,,Wrede,BP-PB,Gottkehaskamp,T.n.V.
+6523,Managementansätze in der IT,Bachelor ET,WMB,2010,X,13.07.21,Di,,,Zeller,M,,T.n.V. / Dauer: 20-40 Min
+6529,Einführung in das wissenschaftliche Arbeiten,Bachelor ET,WMB,2010,7,31.08.21,Di,,,Schultheiß,BP-V,Lang,T.n.V. / Dauer: 20-40 Min
+6520,Spanisch für Fortgeschrittene,Bachelor ET,WMB,2010,7,30.08.21,Mo,14:00,02:00,Sorger,KL,"Meier, S.",
+6021,Elektrothermische Prozesstechnik,Bachelor ET Dual,WMB,2010,X,12.07.21,Mo,,,"Arlt, Schubotz",BP-HA,"Arlt, Schubotz",T.n.V.
+6060,MATLAB in der Elektrotechnik,Bachelor ET Dual,WMB,2010,5,19.08.21,Do,,,Braun A.,BP-PB,Meier H.-G.,T.n.V.
+6023,C# - Programmierung und Künstliche Intelligenz,Bachelor ET Dual,WMB,2010,3,07.08.21,Sa,10:00,01:00,Braun G.,KL,Pogatzki,
+6055,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor ET Dual,WMB,2010,X,14.07.21,Mi,08:00,01:30,Celik,KL,Gronau,
+6502,Projektmanagement,Bachelor ET Dual,WMB,2010,6,24.08.21,Di,,,Frese,BP-PB,Pogatzki,T.n.V.
+6052,Photovoltaik,Bachelor ET Dual,WMB,2010,5,18.08.21,Mi,11:30,02:00,"Fülber, Wrede",KL,"Fülber, Wrede",
+6026,Studienprojekt Mikroelektronik,Bachelor ET Dual,WMB,2010,7,30.08.21,Mo,,,Fülber,BP-PB + BP-V,"Licht, Scheubel",T.n.V. / Dauer: 20-40 Min
+6065,Numerische Mathematik mit Matlab,Bachelor ET Dual,WMB,2010,7,31.08.21,Di,,01:30,Kerkhoff,KL,,
+6026,Studienprojekt Mikroelektronik,Bachelor ET Dual,WMB,2010,7,30.08.21,Mo,,,Licht,BP-PB + BP-V,"Fülber, Scheubel",T.n.V. / Dauer: 20-40 Min
+6524,Pädagogisches Projekt,Bachelor ET Dual,WMB,2010,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6044,Software Engineering Projekt,Bachelor ET Dual,WMB,2010,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6037,Microcontrollerprogrammierung mit Arduino,Bachelor ET Dual,WMB,2010,2,27.07.21,Di,,,Mandorf,M o. BP-PB,,T.n.V. / Dauer: 20-40 Min
+6508,Vorbereitung auf den TOEFL Test,Bachelor ET Dual,WMB,2010,X,12.07.21,Mo,09:00,03:00,Meier S.,KL,Zupfer,"T.n.V. online beaufsichtigte Klausur (Proctoring)"
+6515,Wissenschaftliche Texte mit Latex,Bachelor ET Dual,WMB,2010,7,31.08.21,Di,,,Protogerakis,BP-V,"Braun, A.",T.n.V. / Dauer: 20-40 Min
+6526,Mediation und Konfliktmanagement,Bachelor ET Dual,WMB,2010,4,11.08.21,Mi,14:00,01:30,Ridder,KL,Lang,
+6011,Lasertechnologie,Bachelor ET Dual,WMB,2010,1,24.07.21,Sa,12:30,01:30,Scheubel,KL,Rieß,
+6026,Studienprojekt Mikroelektronik,Bachelor ET Dual,WMB,2010,7,30.08.21,Mo,,,Scheubel,BP-PB + BP-V,"Fülber, Licht",T.n.V. / Dauer: 20-40 Min
+6522,Personalmanagement und Arbeitsrecht,Bachelor ET Dual,WMB,2010,4,12.08.21,Do,13:30,02:00,Stolpmann,KL,Schmid,"online beaufsichtigte Klausur (Proctoring)"
+6056,Projekt Informationstechnik – VoIP-Telefonanlage aus der Cloud,Bachelor ET Dual,WMB,2010,7,31.08.21,Di,,,Ulrich,BP-V,,T.n.V. / Dauer: 20-40 Min
+6048,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor ET Dual,WMB,2010,7,31.08.21,Di,,,Wrede,BP-PB,Gottkehaskamp,T.n.V.
+6523,Managementansätze in der IT,Bachelor ET Dual,WMB,2010,X,13.07.21,Di,,,Zeller,M,,T.n.V. / Dauer: 20-40 Min
+6529,Einführung in das wissenschaftliche Arbeiten,Bachelor ET Dual,WMB,2010,7,31.08.21,Di,,,Schultheiß,BP-V,Lang,T.n.V. / Dauer: 20-40 Min
+6520,Spanisch für Fortgeschrittene,Bachelor ET Dual,WMB,2010,7,30.08.21,Mo,14:00,02:00,Sorger,KL,"Meier, S.",
+6021,Elektrothermische Prozesstechnik,Bachelor KIT,WMB,2010,X,12.07.21,Mo,,,"Arlt, Schubotz",BP-HA,"Arlt, Schubotz",T.n.V.
+6060,MATLAB in der Elektrotechnik,Bachelor KIT,WMB,2010,5,19.08.21,Do,,,Braun A.,BP-PB,Meier H.-G.,T.n.V.
+6023,C# - Programmierung und Künstliche Intelligenz,Bachelor KIT,WMB,2010,3,07.08.21,Sa,10:00,01:00,Braun G.,KL,Pogatzki,
+6055,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor KIT,WMB,2010,X,14.07.21,Mi,08:00,01:30,Celik,KL,Gronau,
+6502,Projektmanagement,Bachelor KIT,WMB,2010,6,24.08.21,Di,,,Frese,BP-PB,Pogatzki,T.n.V.
+6052,Photovoltaik,Bachelor KIT,WMB,2010,5,18.08.21,Mi,11:30,02:00,"Fülber, Wrede",KL,"Fülber, Wrede",
+6026,Studienprojekt Mikroelektronik,Bachelor KIT,WMB,2010,7,30.08.21,Mo,,,Fülber,BP-PB + BP-V,"Licht, Scheubel",T.n.V. / Dauer: 20-40 Min
+6065,Numerische Mathematik mit Matlab,Bachelor KIT,WMB,2010,7,31.08.21,Di,,01:30,Kerkhoff,KL,,
+6026,Studienprojekt Mikroelektronik,Bachelor KIT,WMB,2010,7,30.08.21,Mo,,,Licht,BP-PB + BP-V,"Fülber, Scheubel",T.n.V. / Dauer: 20-40 Min
+6524,Pädagogisches Projekt,Bachelor KIT,WMB,2010,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6044,Software Engineering Projekt,Bachelor KIT,WMB,2010,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6508,Vorbereitung auf den TOEFL Test,Bachelor KIT,WMB,2010,X,12.07.21,Mo,09:00,03:00,Meier S.,KL,Zupfer,"T.n.V. online beaufsichtigte Klausur (Proctoring)"
+6515,Wissenschaftliche Texte mit Latex,Bachelor KIT,WMB,2010,7,31.08.21,Di,,,Protogerakis,BP-V,"Braun, A.",T.n.V. / Dauer: 20-40 Min
+6526,Mediation und Konfliktmanagement,Bachelor KIT,WMB,2010,4,11.08.21,Mi,14:00,01:30,Ridder,KL,Lang,
+6011,Lasertechnologie,Bachelor KIT,WMB,2010,1,24.07.21,Sa,12:30,01:30,Scheubel,KL,Rieß,
+6026,Studienprojekt Mikroelektronik,Bachelor KIT,WMB,2010,7,30.08.21,Mo,,,Scheubel,BP-PB + BP-V,"Fülber, Licht",T.n.V. / Dauer: 20-40 Min
+6522,Personalmanagement und Arbeitsrecht,Bachelor KIT,WMB,2010,4,12.08.21,Do,13:30,02:00,Stolpmann,KL,Schmid,"online beaufsichtigte Klausur (Proctoring)"
+6056,Projekt Informationstechnik – VoIP-Telefonanlage aus der Cloud,Bachelor KIT,WMB,2010,7,31.08.21,Di,,,Ulrich,BP-V,,T.n.V. / Dauer: 20-40 Min
+6048,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor KIT,WMB,2010,7,31.08.21,Di,,,Wrede,BP-PB,Gottkehaskamp,T.n.V.
+6523,Managementansätze in der IT,Bachelor KIT,WMB,2010,X,13.07.21,Di,,,Zeller,M,,T.n.V. / Dauer: 20-40 Min
+6529,Einführung in das wissenschaftliche Arbeiten,Bachelor KIT,WMB,2010,7,31.08.21,Di,,,Schultheiß,BP-V,Lang,T.n.V. / Dauer: 20-40 Min
+6520,Spanisch für Fortgeschrittene,Bachelor KIT,WMB,2010,7,30.08.21,Mo,14:00,02:00,Sorger,KL,"Meier, S.",
+4035,Change Management und Leadership agil gestalten,Bachelor WIE,WMB,2012,X,12.07.21,Mo,,00:30,Berker,BP-V,"Meier, S.",T.n.V. / Dauer: 30 Min
+3412,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2012,3,07.08.21,Sa,10:00,01:00,Braun G.,KL,Pogatzki,
+3444,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2012,X,14.07.21,Mi,08:00,01:30,Celik,KL,Gronau,
+3443,Photovoltaik,Bachelor WIE,WMB,2012,5,18.08.21,Mi,11:30,02:00,"Fülber, Wrede",KL,"Fülber, Wrede",
+4019,Entscheiden und Führen,Bachelor WIE,WMB,2012,7,31.08.21,Di,,,Habermann,BP-HA,Lang,T.n.V.
+4043,Strategische Unternehmensberatung,Bachelor WIE,WMB,2012,7,31.08.21,Di,,,Hilgers,BP-V,,T.n.V. / Dauer: 20-40 Min
+4044,Digitalisierung in der Industrie,Bachelor WIE,WMB,2012,1,23.07.21,Fr,09:00,01:30,Jovanovic,KL,,
+4028,Technologiemanagement,Bachelor WIE,WMB,2012,1,23.07.21,Fr,13:00,01:30,Jovanovic,KL,,
+4040,Start-Up-Gründung und Unternehmenskauf,Bachelor WIE,WMB,2012,7,31.08.21,Di,,,Kaßmann,BP-V,,T.n.V. / Dauer: 20-40 Min
+3450,Numerische Mathematik mit Matlab,Bachelor WIE,WMB,2012,7,31.08.21,Di,,01:30,Kerkhoff,KL,,
+4036,Pädagogisches Projekt,Bachelor WIE,WMB,2012,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+4041,Software Engineering Projekt,Bachelor WIE,WMB,2012,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+4013,Vorbereitung auf den TOEFL Test,Bachelor WIE,WMB,2012,X,12.07.21,Mo,09:00,03:00,Meier S.,KL,Zupfer,"T.n.V. online beaufsichtigte Klausur (Proctoring)"
+4034,Mediation und Konfliktmanagement,Bachelor WIE,WMB,2012,4,11.08.21,Mi,14:00,01:30,Ridder,KL,Lang,
+4042,Wie man erfolgreich Geschäfte in Italien macht,Bachelor WIE,WMB,2012,7,31.08.21,Di,,,Rossi,BP-V,,T.n.V. / Dauer: 20-40 Min
+3403,Lasertechnologie,Bachelor WIE,WMB,2012,1,24.07.21,Sa,12:30,01:30,Scheubel,KL,Rieß,
+4010,Marktpsychologie und Verhandlungsmanagement,Bachelor WIE,WMB,2012,5,16.08.21,Mo,,,Lang,BP-V,Hermanns,T.n.V.
+4026,Personalmanagement und Arbeitsrecht,Bachelor WIE,WMB,2012,4,12.08.21,Do,13:30,02:00,Stolpmann,KL,Schmid,"online beaufsichtigte Klausur (Proctoring)"
+3449,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor WIE,WMB,2012,7,31.08.21,Di,,,Wrede,BP-PB,Gottkehaskamp,T.n.V.
+4032,Managementansätze in der IT,Bachelor WIE,WMB,2012,X,13.07.21,Di,,,Zeller,M,,T.n.V. / Dauer: 20-40 Min
+4035,Change Management und Leadership agil gestalten,Bachelor WIE,WMB,2013,X,12.07.21,Mo,,00:30,Berker,BP-V,"Meier, S.",T.n.V. / Dauer: 30 Min
+3412,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2013,3,07.08.21,Sa,10:00,01:00,Braun G.,KL,Pogatzki,
+3444,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2013,X,14.07.21,Mi,08:00,01:30,Celik,KL,Gronau,
+3443,Photovoltaik,Bachelor WIE,WMB,2013,5,18.08.21,Mi,11:30,02:00,"Fülber, Wrede",KL,"Fülber, Wrede",
+4019,Entscheiden und Führen,Bachelor WIE,WMB,2013,7,31.08.21,Di,,,Habermann,BP-HA,Lang,T.n.V.
+4043,Strategische Unternehmensberatung,Bachelor WIE,WMB,2013,7,31.08.21,Di,,,Hilgers,BP-V,,T.n.V. / Dauer: 20-40 Min
+4044,Digitalisierung in der Industrie,Bachelor WIE,WMB,2013,1,23.07.21,Fr,09:00,01:30,Jovanovic,KL,,
+4028,Technologiemanagement,Bachelor WIE,WMB,2013,1,23.07.21,Fr,13:00,01:30,Jovanovic,KL,,
+4040,Start-Up-Gründung und Unternehmenskauf,Bachelor WIE,WMB,2013,7,31.08.21,Di,,,Kaßmann,BP-V,,T.n.V. / Dauer: 20-40 Min
+3450,Numerische Mathematik mit Matlab,Bachelor WIE,WMB,2013,7,31.08.21,Di,,01:30,Kerkhoff,KL,,
+4036,Pädagogisches Projekt,Bachelor WIE,WMB,2013,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+4041,Software Engineering Projekt,Bachelor WIE,WMB,2013,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+4013,Vorbereitung auf den TOEFL Test,Bachelor WIE,WMB,2013,X,12.07.21,Mo,09:00,03:00,Meier S.,KL,Zupfer,"T.n.V. online beaufsichtigte Klausur (Proctoring)"
+4034,Mediation und Konfliktmanagement,Bachelor WIE,WMB,2013,4,11.08.21,Mi,14:00,01:30,Ridder,KL,Lang,
+4042,Wie man erfolgreich Geschäfte in Italien macht,Bachelor WIE,WMB,2013,7,31.08.21,Di,,,Rossi,BP-V,,T.n.V. / Dauer: 20-40 Min
+3403,Lasertechnologie,Bachelor WIE,WMB,2013,1,24.07.21,Sa,12:30,01:30,Scheubel,KL,Rieß,
+4010,Marktpsychologie und Verhandlungsmanagement,Bachelor WIE,WMB,2013,5,16.08.21,Mo,,,Lang,BP-V,Hermanns,T.n.V.
+4026,Personalmanagement und Arbeitsrecht,Bachelor WIE,WMB,2013,4,12.08.21,Do,13:30,02:00,Stolpmann,KL,Schmid,"online beaufsichtigte Klausur (Proctoring)"
+3449,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor WIE,WMB,2013,7,31.08.21,Di,,,Wrede,BP-PB,Gottkehaskamp,T.n.V.
+4032,Managementansätze in der IT,Bachelor WIE,WMB,2013,X,13.07.21,Di,,,Zeller,M,,T.n.V. / Dauer: 20-40 Min
+6021,Elektrothermische Prozesstechnik,Bachelor EI,WMB,2016,X,12.07.21,Mo,,,"Arlt, Schubotz",BP-HA,"Arlt, Schubotz",T.n.V.
+6060,MATLAB in der Elektrotechnik,Bachelor EI,WMB,2016,5,19.08.21,Do,,,Braun A.,BP-PB,Meier H.-G.,T.n.V.
+6023,C# - Programmierung und Künstliche Intelligenz,Bachelor EI,WMB,2016,3,07.08.21,Sa,10:00,01:00,Braun G.,KL,Pogatzki,
+6055,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor EI,WMB,2016,X,14.07.21,Mi,08:00,01:30,Celik,KL,Gronau,
+6502,Projektmanagement,Bachelor EI,WMB,2016,6,24.08.21,Di,,,Frese,BP-PB,Pogatzki,T.n.V.
+6052,Photovoltaik,Bachelor EI,WMB,2016,5,18.08.21,Mi,11:30,02:00,"Fülber, Wrede",KL,"Fülber, Wrede",
+6026,Studienprojekt Mikroelektronik,Bachelor EI,WMB,2016,7,30.08.21,Mo,,,Fülber,BP-PB + BP-V,"Licht, Scheubel",T.n.V. / Dauer: 20-40 Min
+6065,Numerische Mathematik mit Matlab,Bachelor EI,WMB,2016,7,31.08.21,Di,,01:30,Kerkhoff,KL,,
+6026,Studienprojekt Mikroelektronik,Bachelor EI,WMB,2016,7,30.08.21,Mo,,,Licht,BP-PB + BP-V,"Fülber, Scheubel",T.n.V. / Dauer: 20-40 Min
+6524,Pädagogisches Projekt,Bachelor EI,WMB,2016,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6044,Software Engineering Projekt,Bachelor EI,WMB,2016,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6508,Vorbereitung auf den TOEFL Test,Bachelor EI,WMB,2016,X,12.07.21,Mo,09:00,03:00,Meier S.,KL,Zupfer,"T.n.V. online beaufsichtigte Klausur (Proctoring)"
+6515,Wissenschaftliche Texte mit Latex,Bachelor EI,WMB,2016,7,31.08.21,Di,,,Protogerakis,BP-V,"Braun, A.",T.n.V. / Dauer: 20-40 Min
+6526,Mediation und Konfliktmanagement,Bachelor EI,WMB,2016,4,11.08.21,Mi,14:00,01:30,Ridder,KL,Lang,
+6011,Lasertechnologie,Bachelor EI,WMB,2016,1,24.07.21,Sa,12:30,01:30,Scheubel,KL,Rieß,
+6026,Studienprojekt Mikroelektronik,Bachelor EI,WMB,2016,7,30.08.21,Mo,,,Scheubel,BP-PB + BP-V,"Fülber, Licht",T.n.V. / Dauer: 20-40 Min
+6522,Personalmanagement und Arbeitsrecht,Bachelor EI,WMB,2016,4,12.08.21,Do,13:30,02:00,Stolpmann,KL,Schmid,"online beaufsichtigte Klausur (Proctoring)"
+6056,Projekt Informationstechnik – VoIP-Telefonanlage aus der Cloud,Bachelor EI,WMB,2016,7,31.08.21,Di,,,Ulrich,BP-V,,T.n.V. / Dauer: 20-40 Min
+6048,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor EI,WMB,2016,7,31.08.21,Di,,,Wrede,BP-PB,Gottkehaskamp,T.n.V.
+6523,Managementansätze in der IT,Bachelor EI,WMB,2016,X,13.07.21,Di,,,Zeller,M,,T.n.V. / Dauer: 20-40 Min
+6529,Einführung in das wissenschaftliche Arbeiten,Bachelor EI,WMB,2016,7,31.08.21,Di,,,Schultheiß,BP-V,Lang,T.n.V. / Dauer: 20-40 Min
+6520,Spanisch für Fortgeschrittene,Bachelor EI,WMB,2016,7,30.08.21,Mo,14:00,02:00,Sorger,KL,"Meier, S.",
+6021,Elektrothermische Prozesstechnik,Bachelor EI Dual,WMB,2016,X,12.07.21,Mo,,,"Arlt, Schubotz",BP-HA,"Arlt, Schubotz",T.n.V.
+6060,MATLAB in der Elektrotechnik,Bachelor EI Dual,WMB,2016,5,19.08.21,Do,,,Braun A.,BP-PB,Meier H.-G.,T.n.V.
+6023,C# - Programmierung und Künstliche Intelligenz,Bachelor EI Dual,WMB,2016,3,07.08.21,Sa,10:00,01:00,Braun G.,KL,Pogatzki,
+6055,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor EI Dual,WMB,2016,X,14.07.21,Mi,08:00,01:30,Celik,KL,Gronau,
+6502,Projektmanagement,Bachelor EI Dual,WMB,2016,6,24.08.21,Di,,,Frese,BP-PB,Pogatzki,T.n.V.
+6052,Photovoltaik,Bachelor EI Dual,WMB,2016,5,18.08.21,Mi,11:30,02:00,"Fülber, Wrede",KL,"Fülber, Wrede",
+6026,Studienprojekt Mikroelektronik,Bachelor EI Dual,WMB,2016,7,30.08.21,Mo,,,Fülber,BP-PB + BP-V,"Licht, Scheubel",T.n.V. / Dauer: 20-40 Min
+6065,Numerische Mathematik mit Matlab,Bachelor EI Dual,WMB,2016,7,31.08.21,Di,,01:30,Kerkhoff,KL,,
+6026,Studienprojekt Mikroelektronik,Bachelor EI Dual,WMB,2016,7,30.08.21,Mo,,,Licht,BP-PB + BP-V,"Fülber, Scheubel",T.n.V. / Dauer: 20-40 Min
+6524,Pädagogisches Projekt,Bachelor EI Dual,WMB,2016,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6044,Software Engineering Projekt,Bachelor EI Dual,WMB,2016,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+6037,Microcontrollerprogrammierung mit Arduino,Bachelor EI Dual,WMB,2016,2,27.07.21,Di,,,Mandorf,M o. BP-PB,,T.n.V. / Dauer: 20-40 Min
+6508,Vorbereitung auf den TOEFL Test,Bachelor EI Dual,WMB,2016,X,12.07.21,Mo,09:00,03:00,Meier S.,KL,Zupfer,"T.n.V. online beaufsichtigte Klausur (Proctoring)"
+6515,Wissenschaftliche Texte mit Latex,Bachelor EI Dual,WMB,2016,7,31.08.21,Di,,,Protogerakis,BP-V,"Braun, A.",T.n.V. / Dauer: 20-40 Min
+6526,Mediation und Konfliktmanagement,Bachelor EI Dual,WMB,2016,4,11.08.21,Mi,14:00,01:30,Ridder,KL,Lang,
+6011,Lasertechnologie,Bachelor EI Dual,WMB,2016,1,24.07.21,Sa,12:30,01:30,Scheubel,KL,Rieß,
+6026,Studienprojekt Mikroelektronik,Bachelor EI Dual,WMB,2016,7,30.08.21,Mo,,,Scheubel,BP-PB + BP-V,"Fülber, Licht",T.n.V. / Dauer: 20-40 Min
+6522,Personalmanagement und Arbeitsrecht,Bachelor EI Dual,WMB,2016,4,12.08.21,Do,13:30,02:00,Stolpmann,KL,Schmid,"online beaufsichtigte Klausur (Proctoring)"
+6056,Projekt Informationstechnik – VoIP-Telefonanlage aus der Cloud,Bachelor EI Dual,WMB,2016,7,31.08.21,Di,,,Ulrich,BP-V,,T.n.V. / Dauer: 20-40 Min
+6048,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor EI Dual,WMB,2016,7,31.08.21,Di,,,Wrede,BP-PB,Gottkehaskamp,T.n.V.
+6523,Managementansätze in der IT,Bachelor EI Dual,WMB,2016,X,13.07.21,Di,,,Zeller,M,,T.n.V. / Dauer: 20-40 Min
+6529,Einführung in das wissenschaftliche Arbeiten,Bachelor EI Dual,WMB,2016,7,31.08.21,Di,,,Schultheiß,BP-V,Lang,T.n.V. / Dauer: 20-40 Min
+6520,Spanisch für Fortgeschrittene,Bachelor EI Dual,WMB,2016,7,30.08.21,Mo,14:00,02:00,Sorger,KL,"Meier, S.",
+60022,Elektrothermische Prozesstechnik,Bachelor WIE,WMB,2017,X,12.07.21,Mo,,,"Arlt, Schubotz",BP-HA,"Arlt, Schubotz",T.n.V.
+72515,Change Management und Leadership agil gestalten,Bachelor WIE,WMB,2017,X,12.07.21,Mo,,00:30,Berker,BP-V,"Meier, S.",T.n.V. / Dauer: 30 Min
+6060,MATLAB in der Elektrotechnik,Bachelor WIE,WMB,2017,5,19.08.21,Do,,,Braun A.,BP-PB,Meier H.-G.,T.n.V.
+60008,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2017,3,07.08.21,Sa,10:00,01:00,Braun G.,KL,Pogatzki,
+60007,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2017,X,14.07.21,Mi,08:00,01:30,Celik,KL,Gronau,
+60006,Photovoltaik,Bachelor WIE,WMB,2017,5,18.08.21,Mi,11:30,02:00,"Fülber, Wrede",KL,"Fülber, Wrede",
+60001,Elektrische Antriebssysteme,Bachelor WIE,WMB,2017,3,06.08.21,Fr,14:30,01:30,Gottkehaskamp,KL,Wrede,
+72504,Entscheiden und Führen,Bachelor WIE,WMB,2017,7,31.08.21,Di,,,Habermann,BP-HA,Lang,T.n.V.
+72512,International Buisness,Bachelor WIE,WMB,2017,7,31.08.21,Di,,,Hermanns,BP,Lang,T.n.V.
+72502,Strategie & Unternehmensmanagement,Bachelor WIE,WMB,2017,7,31.08.21,Di,,,Hermanns,BP-PB,Lang,T.n.V.
+72525,Strategische Unternehmensberatung,Bachelor WIE,WMB,2017,7,31.08.21,Di,,,Hilgers,BP-V,,T.n.V. / Dauer: 20-40 Min
+72526,Digitalisierung in der Industrie,Bachelor WIE,WMB,2017,1,23.07.21,Fr,09:00,01:30,Jovanovic,KL,,
+72506,Technologiemanagement,Bachelor WIE,WMB,2017,1,23.07.21,Fr,13:00,01:30,Jovanovic,KL,,
+72522,Start-Up-Gründung und Unternehmenskauf,Bachelor WIE,WMB,2017,7,31.08.21,Di,,,Kaßmann,BP-V,,T.n.V. / Dauer: 20-40 Min
+60021,Numerische Mathematik mit Matlab,Bachelor WIE,WMB,2017,7,31.08.21,Di,,01:30,Kerkhoff,KL,,
+72516,Pädagogisches Projekt,Bachelor WIE,WMB,2017,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+72516,Software Engineering Projekt,Bachelor WIE,WMB,2017,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+72501,Vorbereitung auf den TOEFL Test,Bachelor WIE,WMB,2017,X,12.07.21,Mo,09:00,03:00,Meier S.,KL,Zupfer,"T.n.V. online beaufsichtigte Klausur (Proctoring)"
+72514,Mediation und Konfliktmanagement,Bachelor WIE,WMB,2017,4,11.08.21,Mi,14:00,01:30,Ridder,KL,Lang,
+72524,Wie man erfolgreich Geschäfte in Italien macht,Bachelor WIE,WMB,2017,7,31.08.21,Di,,,Rossi,BP-V,,T.n.V. / Dauer: 20-40 Min
+60015,Lasertechnologie,Bachelor WIE,WMB,2017,1,24.07.21,Sa,12:30,01:30,Scheubel,KL,Rieß,
+72513,Marktpsychologie und Verhandlungsmanagement,Bachelor WIE,WMB,2017,5,16.08.21,Mo,,,Lang,BP-V,Hermanns,T.n.V.
+72505,Personalmanagement und Arbeitsrecht,Bachelor WIE,WMB,2017,4,12.08.21,Do,13:30,02:00,Stolpmann,KL,Schmid,"online beaufsichtigte Klausur (Proctoring)"
+60020,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor WIE,WMB,2017,7,31.08.21,Di,,,Wrede,BP-PB,Gottkehaskamp,T.n.V.
+72508,Managementansätze in der IT,Bachelor WIE,WMB,2017,X,13.07.21,Di,,,Zeller,M,,T.n.V. / Dauer: 20-40 Min
+60013,Robotik,Bachelor WIE,WMB,2017,5,17.08.21,Di,14:30,01:00,Haehnel,KL,Feige,
+60022,Elektrothermische Prozesstechnik,Bachelor WIE,WMB,2020,X,12.07.21,Mo,,,"Arlt, Schubotz",BP-HA,"Arlt, Schubotz",T.n.V.
+72515,Change Management und Leadership agil gestalten,Bachelor WIE,WMB,2020,X,12.07.21,Mo,,00:30,Berker,BP-V,"Meier, S.",T.n.V. / Dauer: 30 Min
+6060,MATLAB in der Elektrotechnik,Bachelor WIE,WMB,2020,5,19.08.21,Do,,,Braun A.,BP-PB,Meier H.-G.,T.n.V.
+60008,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2020,3,07.08.21,Sa,10:00,01:00,Braun G.,KL,Pogatzki,
+60007,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2020,X,14.07.21,Mi,08:00,01:30,Celik,KL,Gronau,
+60006,Photovoltaik,Bachelor WIE,WMB,2020,5,18.08.21,Mi,11:30,02:00,"Fülber, Wrede",KL,"Fülber, Wrede",
+60001,Elektrische Antriebssysteme,Bachelor WIE,WMB,2020,3,06.08.21,Fr,14:30,01:30,Gottkehaskamp,KL,Wrede,
+72504,Entscheiden und Führen,Bachelor WIE,WMB,2020,7,31.08.21,Di,,,Habermann,BP-HA,Lang,T.n.V.
+72512,International Buisness,Bachelor WIE,WMB,2020,7,31.08.21,Di,,,Hermanns,BP,Lang,T.n.V.
+72502,Strategie & Unternehmensmanagement,Bachelor WIE,WMB,2020,7,31.08.21,Di,,,Hermanns,BP-PB,Lang,T.n.V.
+72525,Strategische Unternehmensberatung,Bachelor WIE,WMB,2020,7,31.08.21,Di,,,Hilgers,BP-V,,T.n.V. / Dauer: 20-40 Min
+72526,Digitalisierung in der Industrie,Bachelor WIE,WMB,2020,1,23.07.21,Fr,09:00,01:30,Jovanovic,KL,,
+72506,Technologiemanagement,Bachelor WIE,WMB,2020,1,23.07.21,Fr,13:00,01:30,Jovanovic,KL,,
+72522,Start-Up-Gründung und Unternehmenskauf,Bachelor WIE,WMB,2020,7,31.08.21,Di,,,Kaßmann,BP-V,,T.n.V. / Dauer: 20-40 Min
+60021,Numerische Mathematik mit Matlab,Bachelor WIE,WMB,2020,7,31.08.21,Di,,01:30,Kerkhoff,KL,,
+72516,Pädagogisches Projekt,Bachelor WIE,WMB,2020,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+72516,Software Engineering Projekt,Bachelor WIE,WMB,2020,7,31.08.21,Di,,,Lux,BP-HA,Frese,T.n.V.
+72501,Vorbereitung auf den TOEFL Test,Bachelor WIE,WMB,2020,X,12.07.21,Mo,09:00,03:00,Meier S.,KL,Zupfer,"T.n.V. online beaufsichtigte Klausur (Proctoring)"
+72514,Mediation und Konfliktmanagement,Bachelor WIE,WMB,2020,4,11.08.21,Mi,14:00,01:30,Ridder,KL,Lang,
+72524,Wie man erfolgreich Geschäfte in Italien macht,Bachelor WIE,WMB,2020,7,31.08.21,Di,,,Rossi,BP-V,,T.n.V. / Dauer: 20-40 Min
+60015,Lasertechnologie,Bachelor WIE,WMB,2020,1,24.07.21,Sa,12:30,01:30,Scheubel,KL,Rieß,
+72513,Marktpsychologie und Verhandlungsmanagement,Bachelor WIE,WMB,2020,5,16.08.21,Mo,,,Lang,BP-V,Hermanns,T.n.V.
+72505,Personalmanagement und Arbeitsrecht,Bachelor WIE,WMB,2020,4,12.08.21,Do,13:30,02:00,Stolpmann,KL,Schmid,"online beaufsichtigte Klausur (Proctoring)"
+60020,Entwicklung und Auslegung von Teilsystemen eines Formula Student Autos (e-Traxx),Bachelor WIE,WMB,2020,7,31.08.21,Di,,,Wrede,BP-PB,Gottkehaskamp,T.n.V.
+72508,Managementansätze in der IT,Bachelor WIE,WMB,2020,X,13.07.21,Di,,,Zeller,M,,T.n.V. / Dauer: 20-40 Min
+60013,Robotik,Bachelor WIE,WMB,2020,5,17.08.21,Di,14:30,01:00,Haehnel,KL,Feige,
