@@ -1,12 +1,12 @@
 Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer,Prüfungsform,Zweitprüfer,Bemerkung
 12011,Mathematik I,Bachelor EI,1,2016,1,26.01.22,Mi,08:00,1:30,Meier H.-G.,KL,Kerkhoff,
 11011,Grundlagen der Elektrotechnik I,Bachelor EI,1,2016,2,01.02.22,Di,08:00,2:00,Wrede,KL,Gottkehaskamp,
-14011,Naturwissenschaftliche Grundlagen I,Bachelor EI,1,2016,3,10.02.22,Do,08:00,2:00,Prochotta,KL,Braun, A.,
+14011,Naturwissenschaftliche Grundlagen I,Bachelor EI,1,2016,3,10.02.22,Do,08:00,2:00,Prochotta,KL,"Braun, A.",
 13011,Grundlagen der Informatik I,Bachelor EI,1,2016,4,14.02.22,Mo,08:00,1:30,Gronau,KL,Pogatzki,
 11021,Grundlagen der Elektrotechnik II,Bachelor EI,2,2016,3,07.02.22,Mo,14:00,2:00,Wrede,KL,Gottkehaskamp,
 15011,Bauelemente,Bachelor EI,2,2016,3,09.02.22,Mi,08:30,1:30,Feige,KL,Kellner,
 15011,Bauelemente,Bachelor EI,2,2016,3,09.02.22,Mi,08:30,1:30,Kellner,KL,Feige,
-14021,Naturwissenschaftliche Grundlagen II,Bachelor EI,2,2016,4,18.02.22,Fr,11:00,1:30,Prochotta,KL,Braun, A.,
+14021,Naturwissenschaftliche Grundlagen II,Bachelor EI,2,2016,4,18.02.22,Fr,11:00,1:30,Prochotta,KL,"Braun, A.",
 12021,Mathematik II,Bachelor EI,2,2016,5,21.02.22,Mo,12:30,1:30,Meier H.-G.,KL,Kerkhoff,
 13021,Grundlagen der Informatik II,Bachelor EI,2,2016,5,24.02.22,Do,11:00,1:00,Rieß,KL,Scheubel,
 11031,Grundlagen der Elektrotechnik III,Bachelor EI,3,2016,1,28.01.22,Fr,11:00,1:30,Pogatzki,KL,Gronau,
@@ -35,8 +35,8 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 41031,Embedded Systems II,Bachelor EI,5,2016,2,01.02.22,Di,,,Mondwurf,M,Protogerakis,T.n.V. / Dauer: 20-40 Min
 20061,Prozessleittechnik,Bachelor EI,5,2016,2,01.02.22,Di,13:30,2:00,Protogerakis,KL,Haehnel,
 30011,Elektrische Maschinen,Bachelor EI,5,2016,2,03.02.22,Do,09:00,2:00,Gottkehaskamp,KL,Wrede,
-50021,Halbleiterfertigung,Bachelor EI,5,2016,3,07.02.22,Mo,10:00,2:00,Licht, Fülber,KL,Fülber, Licht,
-20031,SPS & Sicherheitstechnik,Bachelor EI,5,2016,2,04.02.22,Fr,08:00,2:00,Haehnel, Beck,KL,Beck, Haehnel,
+50021,Halbleiterfertigung,Bachelor EI,5,2016,3,07.02.22,Mo,10:00,2:00,"Licht, Fülber",KL,"Fülber, Licht",
+20031,SPS & Sicherheitstechnik,Bachelor EI,5,2016,2,04.02.22,Fr,08:00,2:00,"Haehnel, Beck",KL,"Beck, Haehnel",
 30021,Hochspannungstechnik & EMV,Bachelor EI,5,2016,3,09.02.22,Mi,11:00,2:00,Schoft,KL,Arlt,
 50061,Entwurf Integrierter Schaltungen,Bachelor EI,5,2016,4,14.02.22,Mo,12:30,1:00,Rieß,KL,Scheubel,
 30031,Elektrische Energieversorgung,Bachelor EI,5,2016,5,22.02.22,Di,10:00,2:00,Arlt,KL,Schoft,
@@ -53,12 +53,12 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 11021,Grundlagen der Elektrotechnik II,Bachelor EI Dual,2,2016,3,07.02.22,Mo,14:00,2:00,Wrede,KL,Gottkehaskamp,
 12021,Mathematik II,Bachelor EI Dual,2,2016,5,21.02.22,Mo,12:30,1:30,Meier H.-G.,KL,Kerkhoff,
 13011,Grundlagen der Informatik I,Bachelor EI Dual,3,2016,1,24.01.22,Mo,16:00,1:30,Mandorf,KL,Gronau,Siemens
-14011,Naturwissenschaftliche Grundlagen I,Bachelor EI Dual,3,2016,3,10.02.22,Do,08:00,2:00,Prochotta,KL,Braun, A.,
+14011,Naturwissenschaftliche Grundlagen I,Bachelor EI Dual,3,2016,3,10.02.22,Do,08:00,2:00,Prochotta,KL,"Braun, A.",
 13011,Grundlagen der Informatik I,Bachelor EI Dual,3,2016,4,14.02.22,Mo,08:00,1:30,Gronau,KL,Pogatzki,
 13021,Grundlagen der Informatik II,Bachelor EI Dual,4,2016,2,02.02.22,Mi,09:30,1:00,Mandorf,KL,Rieß,Siemens
 15011,Bauelemente,Bachelor EI Dual,4,2016,3,09.02.22,Mi,08:30,1:30,Feige,KL,Kellner,
 15011,Bauelemente,Bachelor EI Dual,4,2016,3,09.02.22,Mi,08:30,1:30,Kellner,KL,Feige,
-14021,Naturwissenschaftliche Grundlagen II,Bachelor EI Dual,4,2016,4,18.02.22,Fr,11:00,1:30,Prochotta,KL,Braun, A.,
+14021,Naturwissenschaftliche Grundlagen II,Bachelor EI Dual,4,2016,4,18.02.22,Fr,11:00,1:30,Prochotta,KL,"Braun, A.",
 13021,Grundlagen der Informatik II,Bachelor EI Dual,4,2016,5,24.02.22,Do,11:00,1:00,Rieß,KL,Scheubel,
 11031,Grundlagen der Elektrotechnik III,Bachelor EI Dual,5,2016,1,28.01.22,Fr,11:00,1:30,Pogatzki,KL,Gronau,
 15031,Software Engineering,Bachelor EI Dual,5,2016,2,02.02.22,Mi,08:00,1:30,Lux,KL,Frese,
@@ -77,7 +77,7 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 40011,Embedded Systems I,Bachelor EI Dual,6,2016,3,11.02.22,Fr,17:30,1:30,Mandorf,KL,Mondwurf,Siemens
 20041,Aktorik,Bachelor EI Dual,6,2016,4,14.02.22,Mo,13:00,1:30,Gottkehaskamp,KL,Wrede,
 40031,Signal- und Systemtheorie,Bachelor EI Dual,6,2016,4,14.02.22,Mo,10:00,2:00,Pogatzki,KL,Gronau,
-50011,Halbleitergrundlagen,Bachelor EI Dual,6,2016,4,14.02.22,Mo,12:30,1:00,Rieß, Licht,KL,Licht, Rieß,
+50011,Halbleitergrundlagen,Bachelor EI Dual,6,2016,4,14.02.22,Mo,12:30,1:00,"Rieß",KL,"Licht",
 50041,Aufbau- und Verbindungstechnik,Bachelor EI Dual,6,2016,4,15.02.22,Di,13:00,1:30,Licht,KL,Fülber,
 41011,Software Engineering II,Bachelor EI Dual,6,2016,5,22.02.22,Di,08:00,1:30,Lux,KL,Frese,
 42021,Schaltungen und Systeme,Bachelor EI Dual,6,2016,5,23.02.22,Mi,09:00,2:00,Pogatzki,KL,Gronau,
@@ -89,8 +89,8 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 50031,Mikroelektronik,Bachelor EI Dual,7,2016,2,31.01.22,Mo,12:00,2:00,Fülber,KL,Licht,
 41031,Embedded Systems II,Bachelor EI Dual,7,2016,2,01.02.22,Di,,,Mondwurf,M,Protogerakis,T.n.V. / Dauer: 20-40 Min
 20061,Prozessleittechnik,Bachelor EI Dual,7,2016,2,01.02.22,Di,13:30,2:00,Protogerakis,KL,Haehnel,
-50021,Halbleiterfertigung,Bachelor EI Dual,7,2016,3,07.02.22,Mo,10:00,2:00,Licht, Fülber,KL,Fülber, Licht,
-20031,SPS & Sicherheitstechnik,Bachelor EI Dual,7,2016,2,04.02.22,Fr,08:00,2:00,Haehnel, Beck,KL,Beck, Haehnel,
+50021,Halbleiterfertigung,Bachelor EI Dual,7,2016,3,07.02.22,Mo,10:00,2:00,Licht,KL,Fülber,
+20031,SPS & Sicherheitstechnik,Bachelor EI Dual,7,2016,2,04.02.22,Fr,08:00,2:00,Haehnel,KL,Beck,
 50061,Entwurf Integrierter Schaltungen,Bachelor EI Dual,7,2016,4,14.02.22,Mo,12:30,1:00,Rieß,KL,Scheubel,
 20011,Sensorsysteme und Signalverarbeitung,Bachelor EI Dual,7,2016,5,23.02.22,Mi,11:00,3:00,Feige,KL,Haehnel,
 42041,Optische Nachrichtentechnik,Bachelor EI Dual,7,2016,5,26.02.22,Sa,,,Braun A.,BP-V,Prochotta,T.n.V. / Dauer: 20-40 Min
@@ -103,7 +103,7 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 3448,Autonomes Fahren,Bachelor WIE,WMB,2012,5,26.02.22,Sa,,,Braun A.,BP-PB,Prochotta,T.n.V.
 3412,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2012,3,12.02.22,Sa,11:00,1:00,Braun G.,KL,Pogatzki,
 3444,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2012,3,12.02.22,Sa,10:00,1:30,Celik,KL,Beck,
-3443,Photovoltaik,Bachelor WIE,WMB,2012,5,25.02.22,Fr,10:30,2:00,Fülber, Wrede,KL,Wrede, Fülber,
+3443,Photovoltaik,Bachelor WIE,WMB,2012,5,25.02.22,Fr,10:30,2:00,Fülber,KL,Wrede,
 4019,Entscheiden und Führen,Bachelor WIE,WMB,2012,5,26.02.22,Sa,,,Habermann,BP-HA,Lang,T.n.V.
 3445,FPGA-Programmierung,Bachelor WIE,WMB,2012,2,02.02.22,Mi,11:00,1:00,Rieß,KL,Scheubel,
 4044,Digitalisierung in der Industrie,Bachelor WIE,WMB,2012,1,28.01.22,Fr,09:00,1:30,Jovanovic,KL,Lang,
@@ -122,7 +122,7 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 3448,Autonomes Fahren,Bachelor WIE,WMB,2013,5,26.02.22,Sa,,,Braun A.,BP-PB,Prochotta,T.n.V.
 3412,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2013,3,12.02.22,Sa,11:00,1:00,Braun G.,KL,Pogatzki,
 3444,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2013,3,12.02.22,Sa,10:00,1:30,Celik,KL,Beck,
-3443,Photovoltaik,Bachelor WIE,WMB,2013,5,25.02.22,Fr,10:30,2:00,Fülber, Wrede,KL,Wrede, Fülber,
+3443,Photovoltaik,Bachelor WIE,WMB,2013,5,25.02.22,Fr,10:30,2:00,Fülber,KL,Wrede,
 4019,Entscheiden und Führen,Bachelor WIE,WMB,2013,5,26.02.22,Sa,,,Habermann,BP-HA,Lang,T.n.V.
 3445,FPGA-Programmierung,Bachelor WIE,WMB,2013,2,02.02.22,Mi,11:00,1:00,Rieß,KL,Scheubel,
 4044,Digitalisierung in der Industrie,Bachelor WIE,WMB,2013,1,28.01.22,Fr,09:00,1:30,Jovanovic,KL,Lang,
@@ -141,7 +141,7 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 6063,Autonomes Fahren,Bachelor EI,WMB,2016,5,26.02.22,Sa,,,Braun A.,BP-PB,Prochotta,T.n.V.
 6023,C# - Programmierung und Künstliche Intelligenz,Bachelor EI,WMB,2016,3,12.02.22,Sa,11:00,1:00,Braun G.,KL,Pogatzki,
 6055,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor EI,WMB,2016,3,12.02.22,Sa,10:00,1:30,Celik,KL,Beck,
-6052,Photovoltaik,Bachelor EI,WMB,2016,5,25.02.22,Fr,10:30,2:00,Fülber, Wrede,KL,Wrede, Fülber,
+6052,Photovoltaik,Bachelor EI,WMB,2016,5,25.02.22,Fr,10:30,2:00,Fülber,KL,Wrede,
 6512,IT-Datenschutz,Bachelor EI,WMB,2016,5,26.02.22,Sa,,,Frese,BP-HA,Pogatzki,T.n.V.
 6028,FPGA-Programmierung,Bachelor EI,WMB,2016,2,02.02.22,Mi,11:00,1:00,Rieß,KL,Scheubel,
 6517,Teamarbeit im Projekt,Bachelor EI,WMB,2016,5,26.02.22,Sa,,,Rieß,BP-PB + BP-V,Scheubel,T.n.V. / Dauer: 20-40 Min
@@ -162,7 +162,7 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 6063,Autonomes Fahren,Bachelor EI Dual,WMB,2016,5,26.02.22,Sa,,,Braun A.,BP-PB,Prochotta,T.n.V.
 6023,C# - Programmierung und Künstliche Intelligenz,Bachelor EI Dual,WMB,2016,3,12.02.22,Sa,11:00,1:00,Braun G.,KL,Pogatzki,
 6055,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor EI Dual,WMB,2016,3,12.02.22,Sa,10:00,1:30,Celik,KL,Beck,
-6052,Photovoltaik,Bachelor EI Dual,WMB,2016,5,25.02.22,Fr,10:30,2:00,Fülber, Wrede,KL,Wrede, Fülber,
+6052,Photovoltaik,Bachelor EI Dual,WMB,2016,5,25.02.22,Fr,10:30,2:00,Fülber,KL,Wrede,
 6512,IT-Datenschutz,Bachelor EI Dual,WMB,2016,5,26.02.22,Sa,,,Frese,BP-HA,Pogatzki,T.n.V.
 6028,FPGA-Programmierung,Bachelor EI Dual,WMB,2016,2,02.02.22,Mi,11:00,1:00,Rieß,KL,Scheubel,
 6517,Teamarbeit im Projekt,Bachelor EI Dual,WMB,2016,5,26.02.22,Sa,,,Rieß,BP-PB + BP-V,Scheubel,T.n.V. / Dauer: 20-40 Min
@@ -185,7 +185,7 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 6060,MATLAB in der Elektrotechnik,Bachelor WIE,WMB,2017,5,26.02.22,Sa,,,Braun A.,BP-PB,Meier H.-G.,T.n.V.
 60008,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2017,3,12.02.22,Sa,11:00,1:00,Braun G.,KL,Pogatzki,
 60007,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2017,3,12.02.22,Sa,10:00,1:30,Celik,KL,Beck,
-60006,Photovoltaik,Bachelor WIE,WMB,2017,5,25.02.22,Fr,10:30,2:00,Fülber, Wrede,KL,Wrede, Fülber,
+60006,Photovoltaik,Bachelor WIE,WMB,2017,5,25.02.22,Fr,10:30,2:00,Fülber,KL,Wrede,
 60017,Grundlagen der Relativitätstheorie und Quantenmechanik,Bachelor WIE,WMB,2017,5,26.02.22,Sa,,,Prochotta,M,Braun A.,T.n.V. / Dauer: 20-40 Min
 72504,Entscheiden und Führen,Bachelor WIE,WMB,2017,5,26.02.22,Sa,,,Habermann,BP-HA,Lang,T.n.V.
 72512,International Buisness,Bachelor WIE,WMB,2017,5,26.02.22,Sa,,,Hermanns,BP,Lang,T.n.V.
@@ -209,7 +209,7 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 6060,MATLAB in der Elektrotechnik,Bachelor WIE,WMB,2020,5,26.02.22,Sa,,,Braun A.,BP-PB,Meier H.-G.,T.n.V.
 60008,C# - Programmierung und Künstliche Intelligenz,Bachelor WIE,WMB,2020,3,12.02.22,Sa,11:00,1:00,Braun G.,KL,Pogatzki,
 60007,Elektrokonstruktion Rechnergestützte Schaltplanerstellung mit EPLAN,Bachelor WIE,WMB,2020,3,12.02.22,Sa,10:00,1:30,Celik,KL,Beck,
-60006,Photovoltaik,Bachelor WIE,WMB,2020,5,25.02.22,Fr,10:30,2:00,Fülber, Wrede,KL,Wrede, Fülber,
+60006,Photovoltaik,Bachelor WIE,WMB,2020,5,25.02.22,Fr,10:30,2:00,Fülber,KL,Wrede,
 60017,Grundlagen der Relativitätstheorie und Quantenmechanik,Bachelor WIE,WMB,2020,5,26.02.22,Sa,,,Prochotta,M,Braun A.,T.n.V. / Dauer: 20-40 Min
 72504,Entscheiden und Führen,Bachelor WIE,WMB,2020,5,26.02.22,Sa,,,Habermann,BP-HA,Lang,T.n.V.
 72512,International Buisness,Bachelor WIE,WMB,2020,5,26.02.22,Sa,,,Hermanns,BP,Lang,T.n.V.
