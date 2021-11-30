@@ -35,8 +35,8 @@ Code,Prüfung,Studiengang,Sem.,PO,Prüfwoche,Prüfdatum,Tag,Beginn,Dauer,Prüfer
 41031,Embedded Systems II,Bachelor EI,5,2016,2,01.02.22,Di,,,Mondwurf,M,Protogerakis,T.n.V. / Dauer: 20-40 Min
 20061,Prozessleittechnik,Bachelor EI,5,2016,2,01.02.22,Di,13:30,2:00,Protogerakis,KL,Haehnel,
 30011,Elektrische Maschinen,Bachelor EI,5,2016,2,03.02.22,Do,09:00,2:00,Gottkehaskamp,KL,Wrede,
-50021,Halbleiterfertigung,Bachelor EI,5,2016,3,07.02.22,Mo,10:00,2:00,"Licht, Fülber",KL,"Fülber, Licht",
-20031,SPS & Sicherheitstechnik,Bachelor EI,5,2016,2,04.02.22,Fr,08:00,2:00,"Haehnel, Beck",KL,"Beck, Haehnel",
+50021,Halbleiterfertigung,Bachelor EI,5,2016,3,07.02.22,Mo,10:00,2:00,"Licht",KL,"Fülber",
+20031,SPS & Sicherheitstechnik,Bachelor EI,5,2016,2,04.02.22,Fr,08:00,2:00,"Haehnel",KL,"Beck",
 30021,Hochspannungstechnik & EMV,Bachelor EI,5,2016,3,09.02.22,Mi,11:00,2:00,Schoft,KL,Arlt,
 50061,Entwurf Integrierter Schaltungen,Bachelor EI,5,2016,4,14.02.22,Mo,12:30,1:00,Rieß,KL,Scheubel,
 30031,Elektrische Energieversorgung,Bachelor EI,5,2016,5,22.02.22,Di,10:00,2:00,Arlt,KL,Schoft,
