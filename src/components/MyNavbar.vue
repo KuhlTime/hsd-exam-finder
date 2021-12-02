@@ -32,7 +32,7 @@ export default {
             <img src="../assets/hsd-logo.svg" class="logo transition" alt="Logo" />
           </div>
           <span class="title"><b>Prüfungs</b>Planner</span>
-          <a style="text-decoration: none" href="https://github.com/KuhlTime/hsd-exam-finder" target="_blank">
+          <a style="text-decoration: none" href="https://github.com/KuhlTime/hsd-exam-finder/tree/v2" target="_blank">
             <p class="version-label">Version: {{ version }}</p>
           </a>
         </div>
