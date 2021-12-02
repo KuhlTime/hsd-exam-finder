@@ -22,8 +22,12 @@ export default {
     }
   },
   computed: {
+    exams() {
+      return this.$store.state.exams
+      // return this.showSearch ? this.$store.state.exams : this.$store.getters.bookmarkedExams
+    },
     rows() {
-      return this.$store.state.exams.map(exam => {
+      return this.exams.map(exam => {
         let timestamp = '-'
         let start = '-'
         let duration = '-'

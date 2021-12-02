@@ -5,7 +5,10 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home
+    component: Home,
+    meta: {
+      showBackButton: false
+    }
   }
 ]
 const router = createRouter({

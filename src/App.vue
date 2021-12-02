@@ -20,6 +20,12 @@ export default {
   },
   mounted() {
     this.$store.dispatch('fetchExams')
+  },
+  created() {
+    // const params = new URLSearchParams(document.location.search)
+    // console.log(params.get('q'))
+    // this.$store.commit('setSearchString', params.get('q'))
+    // this.$store.commit('showSearch', false)
   }
 }
 </script>
@@ -38,6 +44,14 @@ export default {
       </transition>
     </router-view>
   </div>
+  <footer>
+    <b style="font-size: 11px">
+      Developed by
+      <a style="color: #2d8eff" href="https://kuhlti.me" target="_blank">André Kuhlmann</a>
+    </b>
+    <br />
+    Huge thanks to <i>Andreas Jüschke</i> and <i>Markus Peschfunken</i> for helping me with this project
+  </footer>
 </template>
 
 <style>
@@ -79,8 +93,18 @@ body {
 }
 
 #content {
-  height: calc(100% - 42px);
+  height: calc(100% - 64px);
   display: flex;
   position: relative;
+  margin-top: 24px;
+}
+
+footer {
+  text-align: center;
+  font-size: 9px;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 </style>

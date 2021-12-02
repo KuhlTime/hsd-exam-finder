@@ -1,13 +1,22 @@
 <script>
 import Container from './Container.vue'
+import Bar from './hydrogen/Bar.vue'
 
 export default {
   name: 'MyNavbar',
-  components: { Container },
+  components: { Container, Bar },
   props: {
     version: {
       type: String,
       default: '2.0.0'
+    }
+  },
+  computed: {
+    showBackButton() {
+      return this.$route.meta.showBackButton
+    },
+    iCalLink() {
+      return this.$store.getters.iCalLink
     }
   }
 }
@@ -15,29 +24,34 @@ export default {
 
 <template>
   <container width="90%" max-width="900px" class="container" center>
-    <div>
-      <div
-        class="slide-title"
-        :class="{ hidden: !showBackButton }"
-        @click="$router.go(-1)"
-      >
-        <img src="../assets/back-icon.svg" class="back-button transition" />
-        <img src="../assets/hsd-logo.svg" class="logo transition" alt="Logo" />
-      </div>
-      <span class="title"><b>Prüfungs</b>Planner</span>
-      <p class="version-label">Version: {{ version }}</p>
-    </div>
+    <bar>
+      <template v-slot:left>
+        <div>
+          <div class="slide-title" :class="{ hidden: !showBackButton }" @click="$router.go(-1)">
+            <img src="../assets/back-icon.svg" class="back-button transition" />
+            <img src="../assets/hsd-logo.svg" class="logo transition" alt="Logo" />
+          </div>
+          <span class="title"><b>Prüfungs</b>Planner</span>
+          <a style="text-decoration: none" href="https://github.com/KuhlTime/hsd-exam-finder" target="_blank">
+            <p class="version-label">Version: {{ version }}</p>
+          </a>
+        </div>
+      </template>
+      <template v-slot:default>
+        <!-- <input type="search" v-model="searchString" placeholder="Suche" @focus="focus()" @blur="blur()" /> -->
+      </template>
+      <template v-slot:right>
+        <div>
+          <a :href="iCalLink" target="_blank">
+            <img src="@/assets/calendar.svg" class="bar-button-item" />
+          </a>
+        </div>
+      </template>
+    </bar>
   </container>
 </template>
 
 <style lang="scss" scoped>
-.container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
-
 .slide-title {
   transition: all ease-in-out 300ms;
 }
@@ -64,7 +78,7 @@ export default {
   border-radius: 50%;
 
   /* Style */
-  background-color: #fff;
+  background-color: #000;
 
   /* Interactive */
   cursor: pointer;
@@ -72,13 +86,16 @@ export default {
   /* Transistion */
   transition: background-color ease-in-out 160ms, all ease-in-out 300ms;
 }
-.slide-title:hover .back-button {
+.slide-title:hover:not(.hidden) .back-button {
   /* Style */
-  background-color: rgba(255, 255, 255, 0.6);
+  opacity: 0.6;
+  cursor: pointer;
 }
 
-.hidden .back-button {
+.slide-title.hidden .back-button {
+  /* Style */
   opacity: 0;
+  cursor: auto;
 }
 
 /*------*/
@@ -108,12 +125,34 @@ export default {
   margin: 0;
   margin-left: 2px;
   margin-top: 6px;
-  color: hsla(0, 0%, 100%, 0.5);
+  color: rgba(black, 0.5);
   transition: all 0.16s ease-in-out;
 
   &:hover {
-    color: hsla(0, 0%, 100%, 1);
+    color: rgba(black, 1);
     cursor: pointer;
+  }
+}
+
+.bar-button-item {
+  /* Display */
+  height: 26px;
+  transition: all ease-in-out 300ms;
+
+  &:hover {
+    cursor: pointer;
+    opacity: 0.6;
+  }
+}
+
+input {
+  padding: 8px 10px;
+  border: 1px solid rgba(black, 0.4);
+  border-radius: 3px;
+  outline: none;
+
+  &:focus {
+    border-color: #000;
   }
 }
 </style>

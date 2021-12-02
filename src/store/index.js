@@ -11,7 +11,9 @@ const store = createStore({
   state: {
     exams: [],
     bookmarkIds: [],
-    isLoading: true
+    isLoading: true,
+    search: '',
+    showSearch: false
   },
   actions: {
     fetchExams({ commit }) {
@@ -53,6 +55,14 @@ const store = createStore({
       return state.exams.filter(exam => {
         return state.bookmarkIds.includes(exam.id)
       })
+    },
+    iCalLink: state => {
+      return 'webcal://hsd-api.herokuapp.com/v1/ical/' + state.bookmarkIds.join(',')
+    },
+    lastChange: state => {
+      return state.exams.sort((a, b) => {
+        return a > b
+      })[0].updated
     }
   },
   mutations: {
@@ -68,9 +78,24 @@ const store = createStore({
     removeBookmark(state, examId) {
       state.bookmarkIds = state.bookmarkIds.filter(id => id !== examId)
     },
+    // setSearchString(state, search) {
+    //   const url = new URL(window.location.href)
+
+    //   if (search === '') {
+    //     url.searchParams.delete('q')
+    //   } else {
+    //     url.searchParams.set('q', search)
+    //   }
+
+    //   window.history.replaceState(null, null, url)
+
+    //   state.search = (search || '').trim()
+    // },
+    // showSearch(state, show) {
+    //   state.showSearch = show
+    // },
     RESTORE_MUTATION: vuexLocal.RESTORE_MUTATION
-  },
-  mounted() {}
+  }
 })
 
 export default store
