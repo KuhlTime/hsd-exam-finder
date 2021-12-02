@@ -18,16 +18,7 @@ export default {
   },
   data() {
     return {
-      headers: [
-        'ID',
-        'Name',
-        'Abschluss',
-        'PO',
-        'Datum',
-        'Start',
-        'Dauer',
-        'Prüfer'
-      ]
+      headers: ['ID', 'Name', 'Abschluss', 'PO', 'Datum', 'Start', 'Dauer', 'Prüfer']
     }
   },
   computed: {
@@ -51,16 +42,7 @@ export default {
           duration = `${addZero(h)}:${addZero(m)}`
         }
 
-        return [
-          exam.code,
-          exam.name,
-          exam.degree,
-          exam.regulations,
-          timestamp,
-          start,
-          duration,
-          examiners
-        ]
+        return [exam.code, exam.name, exam.degree, exam.regulations, timestamp, start, duration, examiners, exam.id]
       })
     }
   }

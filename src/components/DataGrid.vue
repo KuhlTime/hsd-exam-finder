@@ -6,12 +6,7 @@
           <th style="text-align: center">
             <BookmarkIcon size="1.2x" style="margin-top: 3px" />
           </th>
-          <th
-            v-for="(h, i) of headers"
-            :key="h"
-            @click="changeOrder(i)"
-            :class="{ 'sort-key': i === sortKey }"
-          >
+          <th v-for="(h, i) of headers" :key="h" @click="changeOrder(i)" :class="{ 'sort-key': i === sortKey }">
             {{ h }}
             <div class="icon-placeholder" v-if="sortKey !== i" />
           </th>
@@ -20,7 +15,8 @@
       <tbody>
         <tr v-for="r in rows" :key="r">
           <td>
-            <input type="checkbox" />
+            <input type="checkbox" :checked="bookmarkValue(r)" @change="bookmark($event, r)" />
+            <!-- {{ bookmarkValue(r) }} -->
           </td>
           <td v-for="(h, i) in headers" :key="h">{{ r[i] }}</td>
         </tr>
@@ -69,11 +65,29 @@ export default {
         this.sortKey = index
         this.ascending = true
       }
+    },
+    bookmark(event, row) {
+      const id = row[row.length - 1]
+      const value = event.target.checked
+
+      console.log(id, value)
+
+      if (value === true) {
+        this.$store.commit('addBookmark', id)
+      } else {
+        this.$store.commit('removeBookmark', id)
+      }
+    },
+    bookmarkValue(row) {
+      return this.bookmarks.includes(row[row.length - 1])
     }
   },
   computed: {
     scrolled() {
       return this.scrollY !== 0
+    },
+    bookmarks() {
+      return this.$store.state.bookmarkIds
     }
     // sortedRows() {
     //   const i = this.sortKey
@@ -130,7 +144,7 @@ th {
   white-space: nowrap;
 
   padding: 13px 12px;
-  cursor: pointer;
+  // cursor: pointer;
   user-select: none;
   color: rgba(255, 255, 255, 0.7);
   transition: all ease-in-out 160ms;
