@@ -1,4 +1,5 @@
 <script>
+import moment from 'moment'
 import Container from './Container.vue'
 import Bar from './hydrogen/Bar.vue'
 
@@ -17,6 +18,9 @@ export default {
     },
     iCalLink() {
       return this.$store.getters.iCalLink
+    },
+    latestUpdate() {
+      return moment(this.$store.getters.lastChange).format('DD.MM.YYYY')
     }
   }
 }
@@ -32,9 +36,12 @@ export default {
             <img src="../assets/hsd-logo.svg" class="logo transition" alt="Logo" />
           </div>
           <span class="title"><b>Prüfungs</b>Planner</span>
-          <a style="text-decoration: none" href="https://github.com/KuhlTime/hsd-exam-finder/tree/v2" target="_blank">
-            <p class="version-label">Version: {{ version }}</p>
-          </a>
+          <p class="small-label">
+            <a class="version-label" href="https://github.com/KuhlTime/hsd-exam-finder/tree/v2" target="_blank">
+              Version: {{ version }}
+            </a>
+            - Datenstand: {{ latestUpdate }}
+          </p>
         </div>
       </template>
       <template v-slot:default>
@@ -120,17 +127,25 @@ export default {
 /*----------------*/
 /* VERSION-LABEL */
 /*----------------*/
-.version-label {
+
+.small-label {
   font-size: 12px;
   margin: 0;
   margin-left: 2px;
   margin-top: 6px;
   color: rgba(black, 0.5);
   transition: all 0.16s ease-in-out;
+  text-decoration: none;
+}
+
+.version-label {
+  color: rgba(black, 0.5);
+  transition: all 0.16s ease-in-out;
+  text-decoration: none;
 
   &:hover {
-    color: rgba(black, 1);
     cursor: pointer;
+    color: rgba(black, 1);
   }
 }
 

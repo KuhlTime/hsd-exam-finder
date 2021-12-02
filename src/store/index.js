@@ -60,9 +60,11 @@ const store = createStore({
       return 'webcal://hsd-api.herokuapp.com/v1/ical/' + state.bookmarkIds.join(',')
     },
     lastChange: state => {
-      return state.exams.sort((a, b) => {
+      const a = state.exams.sort((a, b) => {
         return a > b
       })[0].updated
+
+      return a
     }
   },
   mutations: {
