@@ -50,7 +50,7 @@ export default {
       <a style="color: #2d8eff" href="https://kuhlti.me" target="_blank">André Kuhlmann</a>
     </b>
     <br />
-    Huge thanks to <i>Andreas Jüschke</i> and <i>Markus Peschfunken</i> for helping me with this project
+    Huge thanks to <i>Andreas Jüschke</i> and <i>Markus Pesch-Funken</i> for helping me with this project
   </footer>
 </template>
 
