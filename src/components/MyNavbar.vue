@@ -40,7 +40,7 @@ export default {
             <a class="version-label" href="https://github.com/KuhlTime/hsd-exam-finder/tree/v2" target="_blank">
               Version: {{ version }}
             </a>
-            - Datenstand: {{ latestUpdate }}
+            - Datenstand: {{ latestUpdate }} - BETA. VORSICHT EINIGE DATEN WURDEN FALSCH GEPARSED.
           </p>
         </div>
       </template>
