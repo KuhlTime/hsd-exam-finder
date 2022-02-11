@@ -55,7 +55,8 @@ export default {
 
 <template>
   <container width="90%" max-width="900px" center class="content">
-    <data-grid :headers="headers" :rows="rows" />
+    <h1>Project Deprecated! 😔</h1>
+    <!--<data-grid :headers="headers" :rows="rows" />-->
   </container>
 </template>
 
